@@ -68,17 +68,30 @@
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=559946595903"
             },
             {
-                "Pname":"MarkdownD markdown文档编辑工具 好用 可视化Win版本",
-                "Pid":"romanysoft-markdownd-win",
-                "Name":"MarkdownD for Windows",
+                "Pname":"原子正版 Wondershare Data Recovery 数据恢复工具 Win版本",
+                "Pid":"mc8-799-wdr-win",
+                "Name":"Wondershare Data Recovery for Windows",
                 "OS": "win",
-                "OfficalSite":"http://www.romanysoft.net",
-                "OfficalPrices":"$19",
-                "OfficalProductID":"",
+                "OfficalSite":"https://datarecovery.wondershare.com/",
+                "OfficalPrices":"$49.95",
+                "OfficalProductID":"211",
                 "Commission": 50,
-                "DownloadUrl":"https://seesrc.com/dl-markdownd-win",
-                "BuyUrl":"",
-                "TaobaoUrl":"https://item.taobao.com/item.htm?id=559830758426"
+                "DownloadUrl":"https://seesrc.com/dl-ws-data-recovery-win",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-211?affiliate_id=617007",
+                "TaobaoUrl":""
+            },
+            {
+                "Pname":"原子正版 Wondershare Data Recovery 数据恢复工具 Mac版本",
+                "Pid":"mc8-799-wdr-mac",
+                "Name":"Wondershare Data Recovery for Windows",
+                "OS": "win",
+                "OfficalSite":"https://datarecovery.wondershare.com/",
+                "OfficalPrices":"$95.95",
+                "OfficalProductID":"263",
+                "Commission": 50,
+                "DownloadUrl":"http://seesrc.com/dl-ws-data-recovery-mac",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-263?affiliate_id=617007",
+                "TaobaoUrl":""
             }
         ]
     };
