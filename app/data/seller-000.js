@@ -78,7 +78,7 @@
                 "Commission": 50,
                 "DownloadUrl":"https://seesrc.com/dl-ws-data-recovery-win",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-211?affiliate_id=617007",
-                "TaobaoUrl":""
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=559992808327"
             },
             {
                 "Pname":"原子正版 Wondershare Data Recovery 数据恢复工具 Mac版本",
@@ -91,7 +91,7 @@
                 "Commission": 50,
                 "DownloadUrl":"http://seesrc.com/dl-ws-data-recovery-mac",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-263?affiliate_id=617007",
-                "TaobaoUrl":""
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=560086833336"
             }
         ]
     };
