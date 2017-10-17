@@ -83,8 +83,8 @@
             {
                 "Pname":"原子正版 Wondershare Data Recovery 数据恢复工具 Mac版本",
                 "Pid":"mc8-799-wdr-mac",
-                "Name":"Wondershare Data Recovery for Windows",
-                "OS": "win",
+                "Name":"Wondershare Data Recovery for Mac",
+                "OS": "mac",
                 "OfficalSite":"https://datarecovery.wondershare.com/",
                 "OfficalPrices":"$95.95",
                 "OfficalProductID":"263",
@@ -92,6 +92,34 @@
                 "DownloadUrl":"http://seesrc.com/dl-ws-data-recovery-mac",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-263?affiliate_id=617007",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560086833336"
+            },
+            {
+                "Pname":"原子正版 FoneLab - iPhone Data Recovery 苹果手机数据恢复工具 Win版本",
+                "Pid":"mc1-8294-fonelab-iphone-data-recovery-win",
+                "Name":"FoneLab - iPhone Data Recovery for Windows",
+                "OS": "win",
+                "OfficalSite":"https://www.fonelab.com/ios-data-recovery/",
+                "OfficalPrices":"$69.95",
+                "OfficalProductID":"487",
+                "Commission": 75,
+                "DownloadUrl":"https://seesrc.com/dl-ais-fidr-win",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/18294-487?affiliate_id=617007",
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=560086833336",
+                "TaobaoPrice": "299"
+            },
+            {
+                "Pname":"原子正版 FoneLab - iPhone Data Recovery 苹果手机数据恢复工具 Mac版本",
+                "Pid":"mc1-8294-fonelab-iphone-data-recovery-mac",
+                "Name":"FoneLab - iPhone Data Recovery for Mac",
+                "OS": "win",
+                "OfficalSite":"https://www.fonelab.com/ios-data-recovery/",
+                "OfficalPrices":"$79.95",
+                "OfficalProductID":"488",
+                "Commission": 75,
+                "DownloadUrl":"https://seesrc.com/dl-ais-fidr-mac",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/18294-488?affiliate_id=617007",
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=560086833336",
+                "TaobaoPrice": "359" 
             }
         ]
     };
