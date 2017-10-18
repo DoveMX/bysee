@@ -105,7 +105,7 @@
                 "Pid":"mc1-8294-fonelab-iphone-data-recovery-win",
                 "Name":"FoneLab - iPhone Data Recovery for Windows",
                 "OS": "win",
-                "OfficalSite":"https://www.fonelab.com/ios-data-recovery/",
+                "OfficalSite":"https://www.aiseesoft.com/iphone-data-recovery/",
                 "OfficalPrices":"$69.95",
                 "OfficalProductID":"487",
                 "Commission": 75,
@@ -119,14 +119,42 @@
                 "Pid":"mc1-8294-fonelab-iphone-data-recovery-mac",
                 "Name":"FoneLab - iPhone Data Recovery for Mac",
                 "OS": "win",
-                "OfficalSite":"https://www.fonelab.com/ios-data-recovery/",
+                "OfficalSite":"https://www.aiseesoft.com/mac-iphone-data-recovery/",
                 "OfficalPrices":"$79.95",
                 "OfficalProductID":"488",
                 "Commission": 75,
                 "DownloadUrl":"https://seesrc.com/dl-ais-fidr-mac",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/18294-488?affiliate_id=617007",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560270479333",
-                "TaobaoPrice": "359" 
+                "TaobaoPrice": "299" 
+            },
+            {
+                "Pname":"原子正版 FoneLab - Android Data Recovery 安卓手机数据恢复工具 Win版本",
+                "Pid":"mc1-8294-fonelab-android-data-recovery-win",
+                "Name":"FoneLab - Android Data Recovery for Windows",
+                "OS": "win",
+                "OfficalSite":"http://www.aiseesoft.com/fonelab-for-android/",
+                "OfficalPrices":"$39.95",
+                "OfficalProductID":"538",
+                "Commission": 75,
+                "DownloadUrl":"https://seesrc.com/dl-ais-fadr-win",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/18294-538?affiliate_id=617007",
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=560316383353",
+                "TaobaoPrice": "199"
+            },
+            {
+                "Pname":"原子正版 FoneLab - Android Data Recovery 安卓手机数据恢复工具 Mac版本",
+                "Pid":"mc1-8294-fonelab-android-data-recovery-mac",
+                "Name":"FoneLab - Android Data Recovery for Mac",
+                "OS": "mac",
+                "OfficalSite":"http://www.aiseesoft.com/fonelab-for-android/",
+                "OfficalPrices":"$39.95",
+                "OfficalProductID":"543",
+                "Commission": 75,
+                "DownloadUrl":"https://seesrc.com/dl-ais-fadr-mac",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/18294-543?affiliate_id=617007",
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=560096264548",
+                "TaobaoPrice": "199" 
             }
         ]
     };
