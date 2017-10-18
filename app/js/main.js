@@ -18,6 +18,7 @@ $(document).ready(function() {
                         "DownloadUrl": { type: "string" },
                         "BuyUrl": { type: "string" },
                         "TaobaoUrl": { type: "string" },
+                        "TaobaoPrice": { type: "string" }
                     }
                 }
             },
@@ -62,6 +63,12 @@ $(document).ready(function() {
                 title: "佣金比例",
                 lockable: false,
                 format: "{0}%",
+                width: 120
+            },  {
+                field: "TaobaoPrice",
+                title: "淘宝售价",
+                lockable: false,
+                format: "￥{0}",
                 width: 120
             }, {
                 field: "OfficalSite",

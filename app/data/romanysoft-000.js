@@ -13,7 +13,8 @@
                 "Commission": 50,
                 "DownloadUrl":"https://seesrc.com/dl-markdownd-win",
                 "BuyUrl":"",
-                "TaobaoUrl":"https://item.taobao.com/item.htm?id=559830758426"
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=559830758426",
+                "TaobaoPrice": "60"
             }
         ]
     };
