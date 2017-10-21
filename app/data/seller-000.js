@@ -155,6 +155,20 @@
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/18294-543?affiliate_id=617007",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560096264548",
                 "TaobaoPrice": "199" 
+            },
+            {
+                "Pname":"原子正版 AutoDWG DWG DXF Converter 2018 DWG DXF转换工具",
+                "Pid":"mc1-2005-autodwg-dwg-dxf-converter-standard-win",
+                "Name":"AutoDWG DWG DXF Converte for Windows",
+                "OS": "win",
+                "OfficalSite":"http://www.autodwg.com/dwg_dxf_converter/",
+                "OfficalPrices":"$78",
+                "OfficalProductID":"6",
+                "Commission": 35,
+                "DownloadUrl":"https://seesrc.com/dl-autodwg-dwgdxfconverter-sta-win",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/12005-6?affiliate_id=617007",
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=560360030210",
+                "TaobaoPrice": "458"
             }
         ]
     };
