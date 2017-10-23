@@ -11,8 +11,10 @@ $(document).ready(function() {
                         "Pid": { type: "string" },
                         "Name": { type: "string" },
                         "OS": { type: "string" },
-                        "OfficalSite": { type: "string" },
-                        "OfficalPrices": { type: "string" },
+                        "site": { type: "string" },
+                        "orgPrice": { type: "number" },
+                        "sitePrice": { type: "number" },
+                        "productID": { type: "string" },
                         "OfficalProductID": { type: "string" },
                         "Commission": { type: "number" },
                         "DownloadUrl": { type: "string" },
@@ -71,16 +73,23 @@ $(document).ready(function() {
                 format: "￥{0}",
                 width: 120
             }, {
-                field: "OfficalSite",
+                field: "site",
                 title: "官方网站",
                 width: 300
             },{
-                field: "OfficalPrices",
+                field: "orgPrice",
+                title: "预售价格",
+                locked: true,
+                format: "${0}",
+                width: 120
+            },{
+                field: "sitePrice",
                 title: "官方价格",
                 locked: true,
+                format: "${0}",
                 width: 120
             },  {
-                field: "OfficalProductID",
+                field: "productID",
                 title: "产品ID",
                 lockable: false,
                 width: 150
