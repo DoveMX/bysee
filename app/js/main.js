@@ -79,13 +79,13 @@ $(document).ready(function() {
             },{
                 field: "orgPrice",
                 title: "预售价格",
-                locked: true,
+                locked: false,
                 format: "${0}",
                 width: 120
             },{
                 field: "sitePrice",
                 title: "官方价格",
-                locked: true,
+                locked: false,
                 format: "${0}",
                 width: 120
             },  {
