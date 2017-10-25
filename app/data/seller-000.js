@@ -237,6 +237,7 @@
                 "sitePrice":69.95,
                 "productID":"358",
                 "Commission": 50,
+                "OrgDownloadUrl":"http://hotdownloads.com/trialware/download/Download_drfone-for-ios_setup_full1283.exe?item=8799-358&affiliate=617007",
                 "DownloadUrl":"https://seesrc.com/dl-ws-dr.fone-toolkit-ios-data-recovery-win",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-358?affiliate_id=617007",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560481734544",
@@ -252,10 +253,43 @@
                 "sitePrice":139.95,
                 "productID":"321",
                 "Commission": 50,
+                "OrgDownloadUrl":"http://hotdownloads.com/trialware/download/Download_drfone-for-ios_setup_full1283.exe?item=8799-321&affiliate=617007",
                 "DownloadUrl":"https://seesrc.com/dl-ws-dr.fone-toolkit-ios-suite-win",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-321?affiliate_id=617007",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560419993067",
                 "TaobaoPrice": 799  
+            },
+            {
+                "Pname":"原子正版 Dr.Fone-安卓数据恢复工具 终生授权",
+                "Pid":"mc8-799-dr.fone-toolkit-android-data-recovery-win",
+                "Name":"Wondershare dr.fone toolkit - Android Data Recovery for Win",
+                "OS": "win",
+                "site":"https://drfone.wondershare.com/android-data-recovery.html",
+                "orgPrice":49.95,
+                "sitePrice":49.95,
+                "productID":"368",
+                "Commission": 50,
+                "OrgDownloadUrl":"http://hotdownloads.com/trialware/download/Download_drfone-for-android_setup_full1464.exe?item=8799-368&affiliate=617007",
+                "DownloadUrl":"https://seesrc.com/dl-ws-dr.fone-toolkit-android-data-recovery-win",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-368?affiliate_id=617007",
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=560537566711",
+                "TaobaoPrice": 299  
+            },
+            {
+                "Pname":"原子正版 Dr.Fone-Android Full Suite安卓全套工具 终生授权",
+                "Pid":"mc8-799-dr.fone-toolkit-android-data-recovery-win",
+                "Name":"Wondershare dr.fone toolkit - Android Full Suite for Win",
+                "OS": "win",
+                "site":"https://drfone.wondershare.com/android-data-recovery.html",
+                "orgPrice":119.95,
+                "sitePrice":119.95,
+                "productID":"371",
+                "Commission": 50,
+                "OrgDownloadUrl":"http://hotdownloads.com/trialware/download/Download_drfone-for-android_setup_full1464.exe?item=8799-371&affiliate=617007",
+                "DownloadUrl":"https://seesrc.com/dl-ws-dr.fone-toolkit-android-full-suite-win",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-371?affiliate_id=617007",
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=560381232686",
+                "TaobaoPrice": 669    
             }
         ]
     };
