@@ -14,13 +14,14 @@
                 "Commission": 50,
                 "DownloadUrl":"https://seesrc.com/dl-markdownd-win",
                 "BuyUrl":"",
-                "TaobaoUrl":"https://item.taobao.com/item.htm?id=559830758426",
-                "TaobaoPrice": "60"
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=559830758426"
             }
         ]
     };
 
     $.each(dataList.products, function(index, ele){
+        ele.vendorID = '1';
+        ele.vendorName = 'romanysoft';
         window["SellerData"].push(ele);
     });
 })();

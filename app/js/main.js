@@ -1,6 +1,4 @@
 $(document).ready(function() {
-
-
     $("#grid").kendoGrid({
         dataSource: {
             data: window.SellerData,
@@ -24,6 +22,7 @@ $(document).ready(function() {
                     }
                 }
             },
+            group: [{field: "vendorName"},{field: "OS"}],
             pageSize: 30
         },
         height: $(window).height() - 20,
@@ -66,12 +65,6 @@ $(document).ready(function() {
                 lockable: false,
                 format: "{0}%",
                 width: 120
-            },  {
-                field: "TaobaoPrice",
-                title: "淘宝售价",
-                lockable: false,
-                format: "￥{0}",
-                width: 120
             }, {
                 field: "site",
                 title: "官方网站",
@@ -108,6 +101,14 @@ $(document).ready(function() {
                 title: "淘宝链接",
                 lockable: false,
                 width: 400
+            },  {
+                field: "vendorID",
+                title: "供应商ID",
+                width: 120 
+            },  {
+                field: "vendorName",
+                title: "供应商",
+                width: 160 
             }
         ]
     });
