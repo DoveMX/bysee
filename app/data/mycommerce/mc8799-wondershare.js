@@ -90,6 +90,39 @@
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-371?affiliate_id=617007",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560381232686"   
             },
+            /// dr.fone - Repair (iOS System Recovery)
+            /// 中文网站：https://drfone.wondershare.com/zh/ios-system-recovery.html
+            /// 英文网站：https://drfone.wondershare.com/ios-system-recovery.html
+            {
+                "Pname":"原子正版 Dr.Fone iOS系统恢复工具 终生授权Win版本",
+                "Pid":"mc8-799-dr.fone-ios-repair-win",
+                "Name":"Wondershare dr.fone - Repair (iOS System Recovery) for Win",
+                "OS": "Windows电脑",
+                "site":"https://drfone.wondershare.com/zh/ios-system-recovery.html",
+                "orgPrice":69.95,
+                "sitePrice":69.99,
+                "productID":"8799-410",
+                "Commission": 50,
+                "OrgDownloadUrl":"http://hotdownloads.com/trialware/download/Download_win-drfone_setup_full3360.exe?item=8799-410&affiliate=617007",
+                "DownloadUrl":"https://seesrc.com/dl-ws-dr.fone-ios-repair-win",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-410?affiliate_id=617007",
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=562619045620"
+            },
+            {
+                "Pname":"原子正版 Dr.Fone iOS系统恢复工具 终生授权Mac版本",
+                "Pid":"mc8-799-dr.fone-ios-repair-mac",
+                "Name":"Wondershare dr.fone - Repair (iOS System Recovery) for Mac",
+                "OS": "苹果电脑",
+                "site":"https://drfone.wondershare.com/zh/ios-system-recovery.html",
+                "orgPrice":79.95,
+                "sitePrice":99.99,
+                "productID":"8799-417",
+                "Commission": 50,
+                "OrgDownloadUrl":"http://hotdownloads.com/trialware/download/Download_mac-drfone_full3361.dmg?item=8799-417&affiliate=617007",
+                "DownloadUrl":"https://seesrc.com/dl-ws-dr.fone-ios-repair-mac",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-417?affiliate_id=617007",
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id="
+            }
         ]
     };
 
