@@ -51,42 +51,37 @@ $(document).ready(function() {
                             window.open(data.BuyUrl);
                         } 
                     },
-                    title: "操作", 
+                    title: "", 
                     width: 90,
                     locked: true,
                     lockable: false,
             }, {
                 field: "OS",
-                title: "系统",
-                width: 80
+                title: "系统使用要求",
+                width: 120
             },  {
                 field: "Commission",
-                title: "佣金比例",
+                title: "佣金",
                 lockable: false,
                 format: "{0}%",
-                width: 120
+                width: 80
             }, {
+                field: "orgPrice",
+                title: "预售价",
+                locked: false,
+                format: "${0}",
+                width: 80
+            },{
+                field: "sitePrice",
+                title: "官方价",
+                locked: false,
+                format: "${0}",
+                width: 80
+            },  {
                 field: "site",
                 title: "官方网站",
                 width: 300
             },{
-                field: "orgPrice",
-                title: "预售价格",
-                locked: false,
-                format: "${0}",
-                width: 120
-            },{
-                field: "sitePrice",
-                title: "官方价格",
-                locked: false,
-                format: "${0}",
-                width: 120
-            },  {
-                field: "productID",
-                title: "产品ID",
-                lockable: false,
-                width: 150
-            },  {
                 field: "DownloadUrl",
                 title: "试用下载",
                 lockable: false,
@@ -101,6 +96,11 @@ $(document).ready(function() {
                 title: "淘宝链接",
                 lockable: false,
                 width: 400
+            },  {
+                field: "productID",
+                title: "产品ID",
+                lockable: false,
+                width: 120
             },  {
                 field: "vendorID",
                 title: "供应商ID",

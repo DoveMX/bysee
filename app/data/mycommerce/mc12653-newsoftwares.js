@@ -6,7 +6,7 @@
                 "Pname":"FolderLock 目录加密工具 Windows版",
                 "Pid":"mc1-2653-folder-lock",
                 "Name":"Folder Lock",
-                "OS": "win",
+                "OS": "Windows电脑",
                 "site":"http://www.newsoftwares.net/folderlock",
                 "orgPrice":39.95,
                 "sitePrice":39.95,

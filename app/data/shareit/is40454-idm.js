@@ -6,7 +6,7 @@
                 "Pname":"Internet Download Manager 国外优秀的下载工具",
                 "Pid":"is4-0454-idm",
                 "Name":"Internet Download Manager",
-                "OS": "win",
+                "OS": "Windows电脑",
                 "site":"http://www.internetdownloadmanager.com/",
                 "orgPrice":24.95,
                 "sitePrice":24.95,

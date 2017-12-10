@@ -6,7 +6,7 @@
                 "Pname":"原子正版 Green SD Card Data Recovery Pro SD存储卡恢复 Win",
                 "Pid":"mc5-BestDataRecovery-7320-green-sd-card-data-recovery-pro-win",
                 "Name":"Green SD Card Data Recovery Pro for Win",
-                "OS": "win",
+                "OS": "Windows电脑",
                 "site":"http://best-datarecovery.com/sd-card-data-recovery-pro/",
                 "orgPrice":39.99,
                 "sitePrice":39.99,
@@ -21,7 +21,7 @@
                 "Pname":"原子正版 Green Digital Photo Recovery Pro 音视频照片恢复 Win",
                 "Pid":"mc5-BestDataRecovery-7320-green-digital-photo-recovery-pro-win",
                 "Name":"Green Digital Photo Recovery Pro for Win",
-                "OS": "win",
+                "OS": "Windows电脑",
                 "site":"http://best-datarecovery.com/digital-photo-recovery-pro/",
                 "orgPrice":39.99,
                 "sitePrice":39.99,
@@ -31,6 +31,21 @@
                 "DownloadUrl":"https://seesrc.com/dl-green-digital-photo-recovery-pro-win",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/57320-2?affiliate_id=617007",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=561681614537"    
+            },
+            {
+                "Pname":"原子正版 Green Hard Drive Data Recovery Pro 硬盘数据恢复 Win",
+                "Pid":"mc5-BestDataRecovery-7320-green-hard-drive-data-recovery-pro",
+                "Name":"Green Hard Drive Data Recovery Pro for Win",
+                "OS": "Windows电脑",
+                "site":"http://best-datarecovery.com/hard-drive-data-recovery-pro/",
+                "orgPrice":39.99,
+                "sitePrice":39.99,
+                "productID":"57320-3",
+                "Commission": 70,
+                "OrgDownloadUrl":"http://hotdownloads.com/trialware/download/Download_green_hard_drive_data_recovery.exe?item=57320-3&affiliate=617007",
+                "DownloadUrl":"https://seesrc.com/dl-green-hard-drive-data-recovery-pro-win",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/57320-3?affiliate_id=617007",
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=561704202436"
             }
         ]
     };

@@ -6,7 +6,7 @@
                 "Pname":"MarkdownD markdown文档编辑工具 好用 可视化Win版本",
                 "Pid":"romanysoft-markdownd-win",
                 "Name":"MarkdownD for Windows",
-                "OS": "win",
+                "OS": "Windows电脑",
                 "site":"http://www.romanysoft.net",
                 "orgPrice":19,
                 "sitePrice":19,

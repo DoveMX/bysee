@@ -6,7 +6,7 @@
                 "Pname":"Jihosoft Phone Transfer 手机数据恢复迁移备份助手",
                 "Pid":"mc3-0945-jihosoft-phone-transfer",
                 "Name":"Jhosoft Phone Transfer",
-                "OS": "win",
+                "OS": "Windows电脑",
                 "site":"http://www.jihosoft.com/",
                 "orgPrice":39.95,
                 "sitePrice":39.95,
