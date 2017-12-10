@@ -2,5 +2,8 @@
   font-size: 13px;
 }
  
+.btn-buy > * {
+  color: #d66000;
+}
 
  /*# sourceMappingURL= app.css.map */
