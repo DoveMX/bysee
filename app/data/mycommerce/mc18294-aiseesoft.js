@@ -3,10 +3,10 @@
     var dataList = {
         "products":[
             {
-                "Pname":"原子正版 FoneLab - iPhone Data Recovery 苹果手机数据恢复工具 Win版本",
+                "Pname":"FoneLab - iPhone Data Recovery 苹果手机数据恢复工具 Win版本",
                 "Pid":"mc1-8294-fonelab-iphone-data-recovery-win",
                 "Name":"FoneLab - iPhone Data Recovery for Windows",
-                "OS": "Windows电脑",
+                "OS": "win",
                 "site":"https://www.aiseesoft.com/iphone-data-recovery/",
                 "orgPrice":69.95,
                 "sitePrice":69.95,
@@ -17,10 +17,10 @@
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560050536116"
             },
             {
-                "Pname":"原子正版 FoneLab - iPhone Data Recovery 苹果手机数据恢复工具 Mac版本",
+                "Pname":"FoneLab - iPhone Data Recovery 苹果手机数据恢复工具 Mac版本",
                 "Pid":"mc1-8294-fonelab-iphone-data-recovery-mac",
                 "Name":"FoneLab - iPhone Data Recovery for Mac",
-                "OS": "Windows电脑",
+                "OS": "mac",
                 "site":"https://www.aiseesoft.com/mac-iphone-data-recovery/",
                 "orgPrice":79.95,
                 "sitePrice":79.95,
@@ -31,10 +31,10 @@
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560270479333"
             },
             {
-                "Pname":"原子正版 FoneLab - Android Data Recovery 安卓手机数据恢复工具 Win版本",
+                "Pname":"FoneLab - Android Data Recovery 安卓手机数据恢复工具 Win版本",
                 "Pid":"mc1-8294-fonelab-android-data-recovery-win",
                 "Name":"FoneLab - Android Data Recovery for Windows",
-                "OS": "Windows电脑",
+                "OS": "win",
                 "site":"http://www.aiseesoft.com/fonelab-for-android/",
                 "orgPrice":39.95,
                 "sitePrice":39.95,
@@ -45,10 +45,10 @@
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560316383353"
             },
             {
-                "Pname":"原子正版 FoneLab - Android Data Recovery 安卓手机数据恢复工具 Mac版本",
+                "Pname":"FoneLab - Android Data Recovery 安卓手机数据恢复工具 Mac版本",
                 "Pid":"mc1-8294-fonelab-android-data-recovery-mac",
                 "Name":"FoneLab - Android Data Recovery for Mac",
-                "OS": "苹果电脑",
+                "OS": "mac",
                 "site":"http://www.aiseesoft.com/fonelab-for-android/",
                 "orgPrice":39.95,
                 "sitePrice":39.95,
@@ -59,10 +59,10 @@
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560096264548"
             },
             {
-                "Pname":"原子正版 Aiseesoft Video Converter Ultimate 9 Lifetime Win版",
+                "Pname":"Aiseesoft Video Converter Ultimate 9 Lifetime Win版",
                 "Pid":"mc1-8294-video-converter-ultimate-win",
                 "Name":"Aiseesoft Video Converter Ultimate for Win",
-                "OS": "Windows电脑",
+                "OS": "win",
                 "site":"http://www.aiseesoft.com/video-converter-ultimate/",
                 "orgPrice":60,
                 "sitePrice":48.3,
@@ -73,10 +73,10 @@
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560471035574"
             },
             {
-                "Pname":"原子正版 Aiseesoft Video Converter Ultimate 9 Lifetime Mac版",
+                "Pname":"Aiseesoft Video Converter Ultimate 9 Lifetime Mac版",
                 "Pid":"mc1-8294-video-converter-ultimate-mac",
                 "Name":"Aiseesoft Video Converter Ultimate for Mac",
-                "OS": "Windows电脑",
+                "OS": "mac",
                 "site":"http://www.aiseesoft.com/video-converter-ultimate/",
                 "orgPrice":60,
                 "sitePrice":48.3,

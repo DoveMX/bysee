@@ -3,10 +3,10 @@
     var dataList = {
         "products":[
             {
-                "Pname":"原子正版 Green SD Card Data Recovery Pro SD存储卡恢复 Win",
+                "Pname":"Green SD Card Data Recovery Pro SD存储卡恢复 Win",
                 "Pid":"mc5-BestDataRecovery-7320-green-sd-card-data-recovery-pro-win",
                 "Name":"Green SD Card Data Recovery Pro for Win",
-                "OS": "Windows电脑",
+                "OS": "win",
                 "site":"http://best-datarecovery.com/sd-card-data-recovery-pro/",
                 "orgPrice":39.99,
                 "sitePrice":39.99,
@@ -18,10 +18,10 @@
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=561583365779"   
             },
             {
-                "Pname":"原子正版 Green Digital Photo Recovery Pro 音视频照片恢复 Win",
+                "Pname":"Green Digital Photo Recovery Pro 音视频照片恢复 Win",
                 "Pid":"mc5-BestDataRecovery-7320-green-digital-photo-recovery-pro-win",
                 "Name":"Green Digital Photo Recovery Pro for Win",
-                "OS": "Windows电脑",
+                "OS": "win",
                 "site":"http://best-datarecovery.com/digital-photo-recovery-pro/",
                 "orgPrice":39.99,
                 "sitePrice":39.99,
@@ -33,10 +33,10 @@
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=561681614537"    
             },
             {
-                "Pname":"原子正版 Green Hard Drive Data Recovery Pro 硬盘数据恢复 Win",
+                "Pname":"Green Hard Drive Data Recovery Pro 硬盘数据恢复 Win",
                 "Pid":"mc5-BestDataRecovery-7320-green-hard-drive-data-recovery-pro",
                 "Name":"Green Hard Drive Data Recovery Pro for Win",
-                "OS": "Windows电脑",
+                "OS": "win",
                 "site":"http://best-datarecovery.com/hard-drive-data-recovery-pro/",
                 "orgPrice":39.99,
                 "sitePrice":39.99,

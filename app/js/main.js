@@ -22,8 +22,8 @@ $(document).ready(function() {
                     }
                 }
             },
-            group: [{field: "vendorName"},{field: "OS"}],
-            pageSize: 30
+            group: [{field: "vendorName"}],
+            pageSize: 100
         },
         height: $(window).height() - 20,
         sortable: true,
@@ -37,30 +37,31 @@ $(document).ready(function() {
         pageable: true,
         columns: [
             {
+                command:{
+                    text: "购买",
+                    iconClass: "k-icon k-i-cart",
+                    click: function(e){
+                        e.preventDefault();
+                        var tr = $(e.target).closest("tr");
+                        var data = this.dataItem(tr);
+                        window.open(data.BuyUrl);
+                    }
+                },
+                attributes: {
+                    "class": "btn-buy"
+                },
+                title: "购买",
+                width: 80,
+                locked: true,
+                lockable: false,
+            },
+            {
                 field: "Pname",
                 title: "名称",
                 locked: true,
                 lockable: false,
                 format: "{0}",
                 width: 400
-            },{
-                    command:{ 
-                        text: "点击购买", 
-                        iconClass: "k-icon k-i-cart",
-                        click: function(e){
-                            e.preventDefault();
-                            var tr = $(e.target).closest("tr");
-                            var data = this.dataItem(tr);
-                            window.open(data.BuyUrl);
-                        } 
-                    },
-                    attributes: {
-                        "class": "btn-buy"
-                    },
-                    title: "购买", 
-                    width: 120,
-                    locked: true,
-                    lockable: false,
             },  {
                 field: "Commission",
                 title: "佣金",
@@ -75,7 +76,7 @@ $(document).ready(function() {
                 width: 80
             },{
                 command:{ 
-                    text: "计算利润", 
+                    text: "利润",
                     click: function(e){
                         e.preventDefault();
                         var tr = $(e.target).closest("tr");
@@ -87,11 +88,11 @@ $(document).ready(function() {
                     } 
                 },
                 title: "利润", 
-                width: 90,
+                width: 80,
                 locked: true
             },{
                 command:{ 
-                    text: "淘宝链接", 
+                    text: "淘宝",
                     click: function(e){
                         e.preventDefault();
                         var tr = $(e.target).closest("tr");
@@ -100,12 +101,12 @@ $(document).ready(function() {
                     } 
                 },
                 title: "淘宝", 
-                width: 90,
+                width: 80,
                 locked: true,
                 lockable: false
             },{
                 command:{ 
-                    text: "试用链接", 
+                    text: "复制试用",
                     iconClass: "k-icon k-i-copy",
                     click: function(e){
                         e.preventDefault();
@@ -115,7 +116,7 @@ $(document).ready(function() {
                         window.copyToClipboard(data.DownloadUrl);
                     } 
                 },
-                title: "复制试用链接", 
+                title: "试用链接",
                 width: 120,
                 locked: true,
                 lockable: false
@@ -127,29 +128,29 @@ $(document).ready(function() {
                 width: 80
             }, {
                 field: "OS",
-                title: "系统使用要求",
-                width: 120,
+                title: "💻",
+                width: 80,
                 locked: true,
                 lockable: false
-            },  {
-                field: "site",
-                title: "官方网站",
-                width: 300
-            },{
-                field: "DownloadUrl",
-                title: "试用下载",
-                lockable: false,
-                width: 400
-            },  {
-                field: "BuyUrl",
-                title: "购买授权",
-                lockable: false,
-                width: 400
             },  {
                 field: "productID",
                 title: "产品ID",
                 lockable: false,
                 width: 120
+            },  {
+                field: "site",
+                title: "官方网站",
+                width: 600
+            },{
+                field: "DownloadUrl",
+                title: "试用下载",
+                lockable: false,
+                width: 600
+            },  {
+                field: "BuyUrl",
+                title: "购买授权",
+                lockable: false,
+                width: 600
             },  {
                 field: "vendorID",
                 title: "供应商ID",
