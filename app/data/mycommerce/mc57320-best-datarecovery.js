@@ -12,8 +12,8 @@
                 "sitePrice":39.99,
                 "productID":"57320-10",
                 "Commission": 70,
-                "OrgDownloadUrl":"http://hotdownloads.com/trialware/download/Download_green_sd_card_data_recovery.exe?item=57320-10&affiliate=617007",
-                "DownloadUrl":"https://seesrc.com/dl-green-sd-card-data-recovery-pro-win",
+                "DownloadUrl":"https://pan.baidu.com/s/1kWO9tH1",
+                "OrgDownloadUrl":"http://www.best-datarecovery.com/donwload/green_sd_card_data_recovery.exe",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/57320-10?affiliate_id=617007",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=561583365779"   
             },
@@ -27,10 +27,10 @@
                 "sitePrice":39.99,
                 "productID":"57320-2",
                 "Commission": 70,
-                "OrgDownloadUrl":"http://hotdownloads.com/trialware/download/Download_green_digital_photo_recovery.exe?item=57320-2&affiliate=617007",
-                "DownloadUrl":"https://seesrc.com/dl-green-digital-photo-recovery-pro-win",
+                "DownloadUrl":"https://pan.baidu.com/s/1kWbQqLT",
+                "OrgDownloadUrl":"http://www.best-datarecovery.com/donwload/green_digital_photo_recovery.exe",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/57320-2?affiliate_id=617007",
-                "TaobaoUrl":"https://item.taobao.com/item.htm?id=561681614537"    
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=561681614537"
             },
             {
                 "Pname":"Green Hard Drive Data Recovery Pro 硬盘数据恢复 Win",
@@ -42,8 +42,8 @@
                 "sitePrice":39.99,
                 "productID":"57320-3",
                 "Commission": 70,
-                "OrgDownloadUrl":"http://hotdownloads.com/trialware/download/Download_green_hard_drive_data_recovery.exe?item=57320-3&affiliate=617007",
-                "DownloadUrl":"https://seesrc.com/dl-green-hard-drive-data-recovery-pro-win",
+                "DownloadUrl":"https://pan.baidu.com/s/1i7jCh5z",
+                "OrgDownloadUrl":"http://www.best-datarecovery.com/donwload/green_hard_drive_data_recovery.exe",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/57320-3?affiliate_id=617007",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=561704202436"
             }
