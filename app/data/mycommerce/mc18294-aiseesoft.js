@@ -12,7 +12,8 @@
                 "sitePrice":69.95,
                 "productID":"18294-487",
                 "Commission": 75,
-                "DownloadUrl":"https://seesrc.com/dl-ais-fidr-win",
+                "DownloadUrl":"https://pan.baidu.com/s/1slsSLyd",
+                "OrgDownloadUrl":"http://www.aiseesoft.com/downloads/fonelab.exe",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/18294-487?affiliate_id=617007",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560050536116"
             },
@@ -26,7 +27,8 @@
                 "sitePrice":79.95,
                 "productID":"18294-488",
                 "Commission": 75,
-                "DownloadUrl":"https://seesrc.com/dl-ais-fidr-mac",
+                "DownloadUrl":"https://pan.baidu.com/s/1gfAOjBl",
+                "OrgDownloadUrl": "http://www.aiseesoft.com/downloads/mac/mac-fonelab.dmg",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/18294-488?affiliate_id=617007",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560270479333"
             },
@@ -40,7 +42,8 @@
                 "sitePrice":39.95,
                 "productID":"18294-538",
                 "Commission": 75,
-                "DownloadUrl":"https://seesrc.com/dl-ais-fadr-win",
+                "DownloadUrl":"https://pan.baidu.com/s/1c1DvTPe",
+                "OrgDownloadUrl":"http://www.aiseesoft.com/downloads/fonelab-for-android.exe",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/18294-538?affiliate_id=617007",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560316383353"
             },
@@ -54,7 +57,8 @@
                 "sitePrice":39.95,
                 "productID":"18294-543",
                 "Commission": 75,
-                "DownloadUrl":"https://seesrc.com/dl-ais-fadr-mac",
+                "DownloadUrl":"https://pan.baidu.com/s/1bpk7TsN",
+                "OrgDownloadUrl":"http://www.aiseesoft.com/downloads/mac/mac-fonelab-for-android.dmg",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/18294-543?affiliate_id=617007",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560096264548"
             },
@@ -68,7 +72,8 @@
                 "sitePrice":48.3,
                 "productID":"18294-458",
                 "Commission": 75,
-                "DownloadUrl":"https://seesrc.com/dl-ais-video-converter-ultimate-win",
+                "DownloadUrl":"https://pan.baidu.com/s/1hr3Km6C",
+                "OrgDownloadUrl": "http://www.aiseesoft.com/downloads/video-converter-ultimate.exe",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/18294-458?affiliate_id=617007",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560471035574"
             },
@@ -82,7 +87,8 @@
                 "sitePrice":48.3,
                 "productID":"18294-479",
                 "Commission": 75,
-                "DownloadUrl":"https://seesrc.com/dl-ais-video-converter-ultimate-mac",
+                "DownloadUrl":"https://pan.baidu.com/s/1o822vLw",
+                "OrgDownloadUrl": "http://www.aiseesoft.com/downloads/mac/mac-video-converter-ultimate.dmg",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/18294-479?affiliate_id=617007",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560249784509"
             }
