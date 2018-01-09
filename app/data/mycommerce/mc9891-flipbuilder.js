@@ -12,7 +12,8 @@
                 "sitePrice":99,
                 "productID":"9891-56",
                 "Commission": 50,
-                "DownloadUrl":"https://seesrc.com/dl-flip-pdf-win",
+                "DownloadUrl":"https://pan.baidu.com/s/1kVZi0Rl",
+                "OrgDownloadUrl":"http://www.flipbuilder.com/download/flip-pdf.zip",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/9891-56?affiliate_id=617007",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=5559792217265"
             },
@@ -26,7 +27,8 @@
                 "sitePrice":99,
                 "productID":"9891-174",
                 "Commission": 51,
-                "DownloadUrl":"https://seesrc.com/dl-flip-pdf-mac",
+                "DownloadUrl":"https://pan.baidu.com/s/1i7mZUCH",
+                "OrgDownloadUrl":"http://www.flipbuilder.com/download/Flip-PDF-for-Mac.zip",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/9891-174?affiliate_id=617007",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=559946595903"
             }
