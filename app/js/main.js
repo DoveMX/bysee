@@ -82,12 +82,17 @@ $(document).ready(function() {
                         var tr = $(e.target).closest("tr");
                         var data = this.dataItem(tr);
                         var exchange= 6.6;
-                        var price = data.orgPrice * (100.0 - data.Commission) * exchange /100.0 ;
+
+                        var taobao_price = data.orgPrice * exchange;
+                        var price = data.orgPrice * (100.0 - data.Commission) * exchange /100.0;
                         var Profit = data.orgPrice * data.Commission * exchange / 100.0;
-                        window.alert('最低售价：' + kendo.toString(price, 'n0') + '元 利润：' + kendo.toString(Profit, 'n0') + '元 ');
-                    } 
+                        var msg = '最低售价：' + kendo.toString(price, 'n0') + '元 ' +
+                                  '淘宝: ' + kendo.toString(taobao_price, 'n0') + '元 ' +
+                                  '利润：' + kendo.toString(Profit, 'n0') + '元 '
+                        window.alert(msg);
+                    }
                 },
-                title: "利润", 
+                title: "利润",
                 width: 80,
                 locked: true
             },{
