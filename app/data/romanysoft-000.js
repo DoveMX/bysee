@@ -15,6 +15,24 @@
                 "DownloadUrl":"https://seesrc.com/dl-markdownd-win",
                 "BuyUrl":"",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=559830758426"
+            },
+
+            //Romanysoft SpeedTest
+            {
+                "Pname":"SpeedTest 网络速度测试工具 Mac版本",
+                "Pid":"romanysoft-speedtest-macc",
+                "Name":"SpeedTest 网络速度测试工具 Mac版本",
+                "OS": "mac",
+                "site":"http://seesrc.com/2018/01/09/speedtest-romanysoft-mac/",
+                "orgPrice":5.99,
+                "sitePrice":5.99,
+                "productID":"8799-417",
+                "Commission": 100,
+                "dlID":"dl-romanysoft-speedtest-mac",
+                "DownloadUrl":"https://pan.baidu.com/s/1raoNAn6",
+                "OrgDownloadUrl":"https://aws.romanysoft.com/download/speed-test/speedtest-v7.0.3-mac.dmg",
+                "BuyUrl":"",
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=563790712119"
             }
         ]
     };
