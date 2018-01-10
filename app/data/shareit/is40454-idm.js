@@ -12,7 +12,9 @@
                 "sitePrice":24.95,
                 "productID":"212127",
                 "Commission": 20,
-                "DownloadUrl":"https://seesrc.com/dl-idman-win",
+                "dlID":"dl-idman-win",
+                "DownloadUrl":"https://pan.baidu.com/s/1dy3sKY",
+                "OrgDownloadUrl": "http://mirror2.internetdownloadmanager.com/idman630build3.exe?v=lt&filename=idman630build3.exe",
                 "BuyUrl":"https://order.shareit.com/cart/add?vendorid=40454&PRODUCT[212127]=1&affiliateid=200274083",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=559925904477"
             }
