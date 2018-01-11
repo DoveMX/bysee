@@ -2,19 +2,34 @@
     window["SellerData"] = window["SellerData"] || [];
     var dataList = {
         "products":[
+            //romanysoft markdownd
             {
-                "Pname":"MarkdownD markdown文档编辑工具 好用 可视化Win版本",
+                "Pname":"Markdown 文档编辑工具 Win版本",
                 "Pid":"romanysoft-markdownd-win",
                 "Name":"MarkdownD for Windows",
                 "OS": "win",
-                "site":"http://www.romanysoft.net",
-                "orgPrice":19,
-                "sitePrice":19,
+                "site":"http://aws.romanysoft.com/markdownd/",
+                "orgPrice":35.99,
+                "sitePrice":35.99,
                 "productID":"",
-                "Commission": 50,
+                "Commission": 100,
                 "DownloadUrl":"https://seesrc.com/dl-markdownd-win",
                 "BuyUrl":"",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=559830758426"
+            },
+            {
+                "Pname":"Markdown 文档编辑工具 Mac版本",
+                "Pid":"romanysoft-markdownd-mac",
+                "Name":"MarkdownD for Windows",
+                "OS": "win",
+                "site":"http://aws.romanysoft.com/markdownd/",
+                "orgPrice":35.99,
+                "sitePrice":35.99,
+                "productID":"",
+                "Commission": 100,
+                "DownloadUrl":"https://seesrc.com/dl-markdownd-mac",
+                "BuyUrl":"",
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=564003806388"
             },
 
             //Romanysoft SpeedTest
