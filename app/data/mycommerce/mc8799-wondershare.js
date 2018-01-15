@@ -272,7 +272,7 @@
                 "DownloadUrl":"https://pan.baidu.com/s/1qZXmVHq",
                 "OrgDownloadUrl":"http://download.wondershare.com/drfone_erase_full3357.dmg",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-419?affiliate_id=617007",
-                "TaobaoUrl":"https://item.taobao.com/item.htm?id="
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=564116401117"
             }
             ,{
                 "Pname":"Dr.Fone iOS系统数据擦除工具 Win版本",
@@ -288,7 +288,7 @@
                 "DownloadUrl":"https://pan.baidu.com/s/1i5RLskl",
                 "OrgDownloadUrl":"http://download.wondershare.com/drfone_erase_full3370.exe",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-425?affiliate_id=617007",
-                "TaobaoUrl":"https://item.taobao.com/item.htm?id="
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=564184614848"
             }
             // dr.fone-erase for android
         ]
