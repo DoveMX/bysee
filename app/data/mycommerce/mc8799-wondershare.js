@@ -255,6 +255,42 @@
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-412?affiliate_id=617007",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=564140751369"
             }
+
+            //##############################################################################################
+            // dr.fone-erase for ios
+            ,{
+                "Pname":"Dr.Fone iOS系统数据擦除工具 Mac版本",
+                "Pid":"mc8-799-dr.fone-ios-erase-mac",
+                "Name":"Wondershare dr.fone - Erase (iOS System) for Mac",
+                "OS": "mac",
+                "site":"https://drfone.wondershare.com/ios-data-eraser.html",
+                "orgPrice":39.95,
+                "sitePrice":39.95,
+                "productID":"8799-419",
+                "Commission": 50,
+                "dlID":"dl-ws-dr.fone-ios-erase-mac",
+                "DownloadUrl":"https://pan.baidu.com/s/1qZXmVHq",
+                "OrgDownloadUrl":"http://download.wondershare.com/drfone_erase_full3357.dmg",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-419?affiliate_id=617007",
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id="
+            }
+            ,{
+                "Pname":"Dr.Fone iOS系统数据擦除工具 Win版本",
+                "Pid":"mc8-799-dr.fone-ios-erase-win",
+                "Name":"Wondershare dr.fone - Erase (iOS System) for Win",
+                "OS": "win",
+                "site":"https://drfone.wondershare.com/ios-data-eraser.html",
+                "orgPrice":29.95,
+                "sitePrice":29.95,
+                "productID":"8799-425",
+                "Commission": 50,
+                "dlID":"dl-ws-dr.fone-ios-erase-win",
+                "DownloadUrl":"https://pan.baidu.com/s/1i5RLskl",
+                "OrgDownloadUrl":"http://download.wondershare.com/drfone_erase_full3370.exe",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-425?affiliate_id=617007",
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id="
+            }
+            // dr.fone-erase for android
         ]
     };
 
