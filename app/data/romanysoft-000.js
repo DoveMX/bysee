@@ -13,7 +13,9 @@
                 "sitePrice":35.99,
                 "productID":"",
                 "Commission": 100,
-                "DownloadUrl":"https://seesrc.com/dl-markdownd-win",
+                "dlID":"dl-markdownd-win",
+                "DownloadUrl":"https://seesrc.com/dm/romanysoft/markdownd/MarkdownD-v3.7.4-win32-ia32-setup.exe",
+                "OrgDownloadUrl":"https://aws.romanysoft.com/download/markdownd/MarkdownD-v3.7.4-win32-ia32-setup.exe",
                 "BuyUrl":"",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=559830758426"
             },
@@ -27,7 +29,9 @@
                 "sitePrice":35.99,
                 "productID":"",
                 "Commission": 100,
-                "DownloadUrl":"https://seesrc.com/dl-markdownd-mac",
+                "dlID":"dl-markdownd-mac",
+                "DownloadUrl":"https://seesrc.com/dm/romanysoft/markdownd/markdownd-v4.0.2-mac.dmg",
+                "OrgDownloadUrl":"https://aws.romanysoft.com/download/markdownd/markdownd-v4.0.2-mac.dmg",
                 "BuyUrl":"",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=564003806388"
             },
@@ -44,7 +48,7 @@
                 "productID":"8799-417",
                 "Commission": 100,
                 "dlID":"dl-romanysoft-speedtest-mac",
-                "DownloadUrl":"https://pan.baidu.com/s/1raoNAn6",
+                "DownloadUrl":"https://seesrc.com/dm/romanysoft/speedtest/speedtest-v7.0.3-mac.dmg",
                 "OrgDownloadUrl":"https://aws.romanysoft.com/download/speed-test/speedtest-v7.0.3-mac.dmg",
                 "BuyUrl":"",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=563790712119"
