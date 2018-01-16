@@ -12,7 +12,8 @@
                 "sitePrice":39.95,
                 "productID":"30945-54",
                 "Commission": 75,
-                "DownloadUrl":"https://pan.baidu.com/s/1eTR1vmM",
+                "dlID":"dl-jiho-pt-win",
+                "DownloadUrl":"https://seesrc.com/dm/jihosoft/jihosoft-phone-transfer/JIHO_PT_Trial3.exe",
                 "OrgDownloadUrl":"http://www.jihosoft.com/dl/?id=phonetransfer",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/30945-54?affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=5559836481840"
