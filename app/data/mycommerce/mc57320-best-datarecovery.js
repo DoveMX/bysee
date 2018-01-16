@@ -12,7 +12,8 @@
                 "sitePrice":39.99,
                 "productID":"57320-10",
                 "Commission": 70,
-                "DownloadUrl":"https://pan.baidu.com/s/1kWO9tH1",
+                "dlID":"dl-green-sd-card-data-recovery-pro-win",
+                "DownloadUrl":"https://seesrc.com/dm/best-datarecovery/green_sd_card_data_recovery.exe",
                 "OrgDownloadUrl":"http://www.best-datarecovery.com/donwload/green_sd_card_data_recovery.exe",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/57320-10?affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=561583365779"   
@@ -27,7 +28,8 @@
                 "sitePrice":39.99,
                 "productID":"57320-2",
                 "Commission": 70,
-                "DownloadUrl":"https://pan.baidu.com/s/1kWbQqLT",
+                "dlID":"dl-green-digital-photo-recovery-pro-win",
+                "DownloadUrl":"https://seesrc.com/dm/best-datarecovery/green_digital_photo_recovery.exe",
                 "OrgDownloadUrl":"http://www.best-datarecovery.com/donwload/green_digital_photo_recovery.exe",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/57320-2?affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=561681614537"
@@ -42,7 +44,8 @@
                 "sitePrice":39.99,
                 "productID":"57320-3",
                 "Commission": 70,
-                "DownloadUrl":"https://pan.baidu.com/s/1i7jCh5z",
+                "dlID":"dl-green-hard-drive-data-recovery-pro-win",
+                "DownloadUrl":"https://seesrc.com/dm/best-datarecovery/green_hard_drive_data_recovery.exe",
                 "OrgDownloadUrl":"http://www.best-datarecovery.com/donwload/green_hard_drive_data_recovery.exe",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/57320-3?affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=561704202436"
