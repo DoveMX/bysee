@@ -12,7 +12,8 @@
                 "sitePrice":78,
                 "productID":"12005-6",
                 "Commission": 35,
-                "DownloadUrl":"https://pan.baidu.com/s/1eTqnBc2",
+                "dlID":"dl-autodwg-dwgdxfconverter-sta-win",
+                "DownloadUrl":"https://seesrc.com/dm/autodwg/dwg_dxf_converter/dwg2dxf2018.exe",
                 "OrgDownloadUrl":"http://www.autodwg.com/download/dwg2dxf2018.exe",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/12005-6?affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560360030210"
@@ -27,7 +28,8 @@
                 "sitePrice":149,
                 "productID":"12005-29",
                 "Commission": 35,
-                "DownloadUrl":"https://pan.baidu.com/s/1eTqnBc2",
+                "dlID":"dl-autodwg-dwgdxfconverter-pro-win",
+                "DownloadUrl":"https://seesrc.com/dm/autodwg/dwg_dxf_converter/dwg2dxf2018.exe",
                 "OrgDownloadUrl":"http://www.autodwg.com/download/dwg2dxf2018.exe",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/12005-29?affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560429291996"
