@@ -13,7 +13,7 @@
                 "productID":"12653-1",
                 "Commission": 50,
                 "DownloadUrl":"",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/12653-1?affiliate_id=617007",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/12653-1?affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=559826218000"
             }
         ]

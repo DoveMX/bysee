@@ -14,7 +14,7 @@
                 "Commission": 75,
                 "DownloadUrl":"https://pan.baidu.com/s/1eTR1vmM",
                 "OrgDownloadUrl":"http://www.jihosoft.com/dl/?id=phonetransfer",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/30945-54?affiliate_id=617007",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/30945-54?affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=5559836481840"
             }
         ]

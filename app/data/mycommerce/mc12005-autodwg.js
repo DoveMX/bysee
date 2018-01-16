@@ -14,7 +14,7 @@
                 "Commission": 35,
                 "DownloadUrl":"https://pan.baidu.com/s/1eTqnBc2",
                 "OrgDownloadUrl":"http://www.autodwg.com/download/dwg2dxf2018.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/12005-6?affiliate_id=617007",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/12005-6?affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560360030210"
             },
             {
@@ -29,7 +29,7 @@
                 "Commission": 35,
                 "DownloadUrl":"https://pan.baidu.com/s/1eTqnBc2",
                 "OrgDownloadUrl":"http://www.autodwg.com/download/dwg2dxf2018.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/12005-29?affiliate_id=617007",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/12005-29?affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560429291996"
             }
         ]

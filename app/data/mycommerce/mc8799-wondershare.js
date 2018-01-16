@@ -14,7 +14,7 @@
                 "Commission": 50,
                 "DownloadUrl":"https://pan.baidu.com/s/1nw9Cjf7",
                 "OrgDownloadUrl":"http://download.wondershare.com/data-recovery_full542.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-211?affiliate_id=617007",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-211?affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=559992808327"
             },
             {
@@ -29,7 +29,7 @@
                 "Commission": 50,
                 "DownloadUrl":"https://pan.baidu.com/s/1c31MYHU",
                 "OrgDownloadUrl":"http://download.wondershare.com/mac-data-recovery_full737.dmg",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-263?affiliate_id=617007",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-263?affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560086833336"
             },
 
@@ -46,7 +46,7 @@
                 "Commission": 50,
                 "DownloadUrl":"https://pan.baidu.com/s/1c3IHZ00",
                 "OrgDownloadUrl":"http://download.wondershare.com/drfone_full3360.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-405?affiliate_id=617007",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-405?affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560419993067"
             },
             // TODO: 需要提供Mac版本
@@ -63,7 +63,7 @@
                 "Commission": 50,
                 "DownloadUrl":"https://pan.baidu.com/s/1kWSDgVH",
                 "OrgDownloadUrl":"http://download.wondershare.com/drfone_full3361.dmg",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-402?affiliate_id=617007",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-402?affiliate_id=624209",
                 "TaobaoUrl":""
             },
              */
@@ -83,7 +83,7 @@
                 "dlID":"dl-ws-dr.fone-toolkit-android-full-suite-win",
                 "DownloadUrl":"https://pan.baidu.com/s/1c3IHZ00",
                 "OrgDownloadUrl":"http://download.wondershare.com/drfone_full3360.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-404?affiliate_id=617007",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-404?affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560381232686"
             },
             // TODO: 需要提供Mac版本
@@ -101,7 +101,7 @@
                 "dlID":"dl-ws-dr.fone-toolkit-android-full-suite-mac",
                 "DownloadUrl":"https://pan.baidu.com/s/1kWSDgVH",
                 "OrgDownloadUrl":"http://download.wondershare.com/drfone_full3361.dmg",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-371?affiliate_id=617007",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-371?affiliate_id=624209",
                 "TaobaoUrl":""
             },
              */
@@ -122,7 +122,7 @@
                 "dlID":"dl-ws-dr.fone-toolkit-ios-data-recovery-win",
                 "DownloadUrl":"https://pan.baidu.com/s/1i6Nr3BR",
                 "OrgDownloadUrl":"http://download.wondershare.com/drfone_recover_full3366.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-421?affiliate_id=617007",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-421?affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560481734544"
             },
             //TODO: 这里缺少Mac版本，后面需要在淘宝上添加
@@ -140,7 +140,7 @@
                 "dlID":"dl-ws-dr.fone-toolkit-ios-data-recovery-mac",
                 "DownloadUrl":"https://pan.baidu.com/s/1smfbQg9",
                 "OrgDownloadUrl":"http://download.wondershare.com/drfone_recover_full3353.dmg",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-426?affiliate_id=617007",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-426?affiliate_id=624209",
                 "TaobaoUrl":""
             },
 
@@ -161,7 +161,7 @@
                 "dlID":"dl-ws-dr.fone-toolkit-android-data-recovery-win",
                 "DownloadUrl":"https://pan.baidu.com/s/1i6Nr3BR",
                 "OrgDownloadUrl":"http://download.wondershare.com/drfone_recover_full3366.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-407?affiliate_id=617007",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-407?affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560537566711"
             },
 
@@ -180,7 +180,7 @@
                 "dlID":"dl-ws-dr.fone-toolkit-android-data-recovery-mac",
                 "DownloadUrl":"https://pan.baidu.com/s/1smfbQg9",
                 "OrgDownloadUrl":"http://download.wondershare.com/drfone_recover_full3353.dmg",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-414?affiliate_id=617007",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-414?affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560537566711"
             },
              */
@@ -200,7 +200,7 @@
                 "dlID":"dl-ws-dr.fone-ios-repair-win",
                 "DownloadUrl":"https://pan.baidu.com/s/1pMbIkdH",
                 "OrgDownloadUrl":"http://download.wondershare.com/drfone_repair_full3371.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-410?affiliate_id=617007",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-410?affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=562619045620"
             },
             {
@@ -216,7 +216,7 @@
                 "dlID":"dl-ws-dr.fone-ios-repair-mac",
                 "DownloadUrl":"https://pan.baidu.com/s/1c3WVi6W",
                 "OrgDownloadUrl":"http://download.wondershare.com/drfone_repair_full3358.dmg",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-417?affiliate_id=617007",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-417?affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=562761671796"
             }
 
@@ -235,7 +235,7 @@
                 "dlID":"dl-ws-dr.fone-ios-unlock-mac",
                 "DownloadUrl":"https://pan.baidu.com/s/1mjBaqJA",
                 "OrgDownloadUrl":"http://download.wondershare.com/drfone_unlock_full3359.dmg",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-420?affiliate_id=617007",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-420?affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=563878976795"
             }
             // dr.fone-unlock for android
@@ -252,7 +252,7 @@
                 "dlID":"dl-ws-dr.fone-android-unlock-win",
                 "DownloadUrl":"https://pan.baidu.com/s/1kVXgJob",
                 "OrgDownloadUrl":"http://download.wondershare.com/drfone_unlock_full3372.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-412?affiliate_id=617007",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-412?affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=564140751369"
             }
 
@@ -271,7 +271,7 @@
                 "dlID":"dl-ws-dr.fone-ios-erase-mac",
                 "DownloadUrl":"https://pan.baidu.com/s/1qZXmVHq",
                 "OrgDownloadUrl":"http://download.wondershare.com/drfone_erase_full3357.dmg",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-419?affiliate_id=617007",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-419?affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=564116401117"
             }
             ,{
@@ -287,10 +287,27 @@
                 "dlID":"dl-ws-dr.fone-ios-erase-win",
                 "DownloadUrl":"https://pan.baidu.com/s/1i5RLskl",
                 "OrgDownloadUrl":"http://download.wondershare.com/drfone_erase_full3370.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-425?affiliate_id=617007",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-425?affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=564184614848"
             }
             // dr.fone-erase for android
+            ,{
+                "Pname":"Dr.Fone Android 安卓数据擦除工具 Win版本",
+                "Pid":"mc8-799-dr.fone-android-erase-win",
+                "Name":"Wondershare dr.fone - Erase (Android System) for Win",
+                "OS": "win",
+                "site":"https://drfone.wondershare.com/android-data-eraser.html",
+                "orgPrice":19.95,
+                "sitePrice":19.95,
+                "productID":"8799-411",
+                "Commission": 50,
+                "dlID":"dl-ws-dr.fone-android-erase-win",
+                "DownloadUrl":"https://pan.baidu.com/s/1i5RLskl",
+                "OrgDownloadUrl":"http://download.wondershare.com/drfone_erase_full3370.exe",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-411?affiliate_id=624209",
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id="
+            }
+
         ]
     };
 

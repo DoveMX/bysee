@@ -14,7 +14,7 @@
                 "Commission": 70,
                 "DownloadUrl":"https://pan.baidu.com/s/1kWO9tH1",
                 "OrgDownloadUrl":"http://www.best-datarecovery.com/donwload/green_sd_card_data_recovery.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/57320-10?affiliate_id=617007",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/57320-10?affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=561583365779"   
             },
             {
@@ -29,7 +29,7 @@
                 "Commission": 70,
                 "DownloadUrl":"https://pan.baidu.com/s/1kWbQqLT",
                 "OrgDownloadUrl":"http://www.best-datarecovery.com/donwload/green_digital_photo_recovery.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/57320-2?affiliate_id=617007",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/57320-2?affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=561681614537"
             },
             {
@@ -44,7 +44,7 @@
                 "Commission": 70,
                 "DownloadUrl":"https://pan.baidu.com/s/1i7jCh5z",
                 "OrgDownloadUrl":"http://www.best-datarecovery.com/donwload/green_hard_drive_data_recovery.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/57320-3?affiliate_id=617007",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/57320-3?affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=561704202436"
             }
         ]
