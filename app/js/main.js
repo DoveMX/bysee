@@ -118,7 +118,13 @@ $(document).ready(function() {
                         var tr = $(e.target).closest("tr");
                         var data = this.dataItem(tr);
                         //window.open(data.DownloadUrl);
-                        window.copyToClipboard(data.DownloadUrl);
+                        var url = "https://seesrc.com/" + data.dlID;
+                        window.copyToClipboard(url);
+
+                        //
+                        window.alert("试用下载地址已经拷贝成功! " + url);
+                        window.open(url);
+
                     } 
                 },
                 title: "试用链接",
