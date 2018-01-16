@@ -308,7 +308,7 @@
                 "DownloadUrl":"https://seesrc.com/dm/wondershare/dr.fone-erase/drfone_erase_setup_full3370.exe",
                 "OrgDownloadUrl":"http://download.wondershare.com/drfone_erase_full3370.exe",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/8799-411?affiliate_id=624209",
-                "TaobaoUrl":"https://item.taobao.com/item.htm?id="
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=564169509404"
             }
 
         ]
