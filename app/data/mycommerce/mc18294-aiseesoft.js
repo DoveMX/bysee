@@ -98,6 +98,23 @@
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/18294-479?affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560249784509"
             }
+            // fone-trans-ios-transfer-win
+            , {
+                "Pname":"FoneTrans - iOS Transfer 数据同步转移工具 Win版本",
+                "Pid":"mc1-8294-fone-trans-ios-transfer-win",
+                "Name":"Aiseesoft FoneTrans - iOS Transfer for Win",
+                "OS": "win",
+                "site":"http://www.aiseesoft.com/ios-transfer/",
+                "orgPrice":39.95,
+                "sitePrice":39.95,
+                "productID":"18294-498",
+                "Commission": 75,
+                "dlID":"dl-ais-fone-trans-ios-transfer-win",
+                "DownloadUrl":"https://seesrc.com/dm/aiseesoft/fone-trans-ios-transfer/fonetrans.exe",
+                "OrgDownloadUrl": "http://www.aiseesoft.com/downloads/fonetrans.exe",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/18294-498?affiliate_id=624209",
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=564198860085"
+            }
         ]
     };
 
