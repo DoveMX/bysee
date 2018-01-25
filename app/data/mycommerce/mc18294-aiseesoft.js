@@ -115,6 +115,23 @@
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/18294-498?affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=564198860085"
             }
+            // fone-trans-ios-transfer-mac
+            , {
+                "Pname":"FoneTrans - iOS Transfer 数据同步转移工具 Mac版本",
+                "Pid":"mc1-8294-fone-trans-ios-transfer-mac",
+                "Name":"Aiseesoft FoneTrans - iOS Transfer for Mac",
+                "OS": "mac",
+                "site":"http://www.aiseesoft.com/ios-transfer/",
+                "orgPrice":39.95,
+                "sitePrice":39.95,
+                "productID":"18294-499",
+                "Commission": 75,
+                "dlID":"dl-ais-fone-trans-ios-transfer-mac",
+                "DownloadUrl":"http://seesrc.com/dm/aiseesoft/fone-trans-ios-transfer/mac-fonetrans.dmg",
+                "OrgDownloadUrl": "http://www.aiseesoft.com/downloads/mac/mac-fonetrans.dmg",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/18294-499?affiliate_id=624209",
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=564368492324"
+            }
         ]
     };
 
