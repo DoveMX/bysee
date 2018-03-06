@@ -15,7 +15,7 @@
                 "dlID":"dl-jiho-pt-win",
                 "DownloadUrl":"https://seesrc.com/dm/jihosoft/jihosoft-phone-transfer/JIHO_PT_Trial3.exe",
                 "OrgDownloadUrl":"http://www.jihosoft.com/dl/?id=phonetransfer",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/30945-54?affiliate_id=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/30945-54?affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=5559836481840"
             }
         ]
