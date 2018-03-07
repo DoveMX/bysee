@@ -16,7 +16,7 @@
                 "dlID":"dl-markdownd-win",
                 "DownloadUrl":"https://seesrc.com/dm/romanysoft/markdownd/MarkdownD-v3.7.4-win32-ia32-setup.exe",
                 "OrgDownloadUrl":"https://aws.romanysoft.com/download/markdownd/MarkdownD-v3.7.4-win32-ia32-setup.exe",
-                "BuyUrl":"",
+                "BuyUrl":"自家产品,向孙志峰询问注册码",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=559830758426"
             },
             {
@@ -32,7 +32,7 @@
                 "dlID":"dl-markdownd-mac",
                 "DownloadUrl":"https://seesrc.com/dm/romanysoft/markdownd/markdownd-v4.0.2-mac.dmg",
                 "OrgDownloadUrl":"https://aws.romanysoft.com/download/markdownd/markdownd-v4.0.2-mac.dmg",
-                "BuyUrl":"",
+                "BuyUrl":"自家产品,向孙志峰询问注册码",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=564003806388"
             },
 
@@ -50,7 +50,7 @@
                 "dlID":"dl-romanysoft-speedtest-mac",
                 "DownloadUrl":"https://seesrc.com/dm/romanysoft/speedtest/speedtest-v7.0.3-mac.dmg",
                 "OrgDownloadUrl":"https://aws.romanysoft.com/download/speed-test/speedtest-v7.0.3-mac.dmg",
-                "BuyUrl":"",
+                "BuyUrl":"自家产品,向孙志峰询问注册码",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=563790712119"
             }
         ]

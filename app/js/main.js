@@ -44,7 +44,12 @@ $(document).ready(function() {
                         e.preventDefault();
                         var tr = $(e.target).closest("tr");
                         var data = this.dataItem(tr);
-                        window.open(data.BuyUrl);
+                        if (data.BuyUrl !== '' && data.BuyUrl !== '自家产品,向孙志峰询问注册码' ) {
+                            window.open(data.BuyUrl);
+                        } else {
+                            window.alert("注意内容：" + data.BuyUrl)
+                        }
+
                     }
                 },
                 attributes: {
