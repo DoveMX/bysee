@@ -15,7 +15,7 @@
                 "dlID":"dl-ws-data-recovery-win",
                 "DownloadUrl":"hhttps://seesrc.com/dm/wondershare/data-recovery/data-recovery_setup_full542.exe",
                 "OrgDownloadUrl":"http://download.wondershare.com/data-recovery_full542.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-211?quantity=1&ss_coupon=WOND-KWGH-SPEC&affiliate_id=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-211?quantity=1&locale=en_US&currency=USD&ss_coupon=WOND-KWGH-SPEC&affiliate_id=624209&affiliate=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=559992808327"
             },
             {
@@ -31,7 +31,7 @@
                 "dlID":"dl-ws-data-recovery-mac",
                 "DownloadUrl":"https://seesrc.com/dm/wondershare/data-recovery/mac-data-recovery_full737.dmg",
                 "OrgDownloadUrl":"http://download.wondershare.com/mac-data-recovery_full737.dmg",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-263?quantity=1&ss_coupon=WOND-KWGH-SPEC&affiliate_id=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-263?quantity=1&locale=en_US&currency=USD&ss_coupon=WOND-KWGH-SPEC&affiliate_id=624209&affiliate=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560086833336"
             },
 
@@ -49,7 +49,7 @@
                 "dlID":"dl-ws-data-recovery-mac",
                 "DownloadUrl":"https://pan.baidu.com/s/1c3IHZ00",
                 "OrgDownloadUrl":"http://download.wondershare.com/drfone_full3360.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-405?quantity=1&ss_coupon=WOND-KWGH-SPEC&affiliate_id=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-405?quantity=1&locale=en_US&currency=USD&ss_coupon=WOND-KWGH-SPEC&affiliate_id=624209&affiliate=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560419993067"
             },
             // TODO: 需要提供Mac版本
@@ -66,7 +66,7 @@
                 "Commission": 50,
                 "DownloadUrl":"https://seesrc.com/dm/wondershare/dr.fone-full/drfone_full3361.dmg",
                 "OrgDownloadUrl":"http://download.wondershare.com/drfone_full3361.dmg",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-402?quantity=1&ss_coupon=WOND-KWGH-SPEC&affiliate_id=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-402?quantity=1&locale=en_US&currency=USD&ss_coupon=WOND-KWGH-SPEC&affiliate_id=624209&affiliate=624209",
                 "TaobaoUrl":""
             },
              */
@@ -86,7 +86,7 @@
                 "dlID":"dl-ws-dr.fone-toolkit-android-full-suite-win",
                 "DownloadUrl":"https://seesrc.com/dm/wondershare/dr.fone-full/drfone_setup_full3360.exe",
                 "OrgDownloadUrl":"http://download.wondershare.com/drfone_full3360.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-404?quantity=1&ss_coupon=WOND-KWGH-SPEC&affiliate_id=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-404?quantity=1&locale=en_US&currency=USD&ss_coupon=WOND-KWGH-SPEC&affiliate_id=624209&affiliate=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560381232686"
             },
             // TODO: 需要提供Mac版本
@@ -104,7 +104,7 @@
                 "dlID":"dl-ws-dr.fone-toolkit-android-full-suite-mac",
                 "DownloadUrl":"https://seesrc.com/dm/wondershare/dr.fone-full/drfone_full3361.dmg",
                 "OrgDownloadUrl":"http://download.wondershare.com/drfone_full3361.dmg",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-371?quantity=1&ss_coupon=WOND-KWGH-SPEC&affiliate_id=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-371?quantity=1&locale=en_US&currency=USD&ss_coupon=WOND-KWGH-SPEC&affiliate_id=624209&affiliate=624209",
                 "TaobaoUrl":""
             },
              */
@@ -125,7 +125,7 @@
                 "dlID":"dl-ws-dr.fone-toolkit-ios-data-recovery-win",
                 "DownloadUrl":"https://seesrc.com/dm/wondershare/dr.fone-recover/drfone_recover_setup_full3366.exe",
                 "OrgDownloadUrl":"http://download.wondershare.com/drfone_recover_full3366.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-421?quantity=1&ss_coupon=WOND-KWGH-SPEC&affiliate_id=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-421?quantity=1&locale=en_US&currency=USD&ss_coupon=WOND-KWGH-SPEC&affiliate_id=624209&affiliate=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560481734544"
             },
             //TODO: 这里缺少Mac版本，后面需要在淘宝上添加
@@ -143,7 +143,7 @@
                 "dlID":"dl-ws-dr.fone-toolkit-ios-data-recovery-mac",
                 "DownloadUrl":"https://seesrc.com/dm/wondershare/dr.fone-recover/drfone_recover_full3353.dmg",
                 "OrgDownloadUrl":"http://download.wondershare.com/drfone_recover_full3353.dmg",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-426?quantity=1&ss_coupon=WOND-KWGH-SPEC&affiliate_id=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-426?quantity=1&locale=en_US&currency=USD&ss_coupon=WOND-KWGH-SPEC&affiliate_id=624209&affiliate=624209",
                 "TaobaoUrl":""
             },
 
@@ -164,7 +164,7 @@
                 "dlID":"dl-ws-dr.fone-toolkit-android-data-recovery-win",
                 "DownloadUrl":"https://seesrc.com/dm/wondershare/dr.fone-recover/drfone_recover_setup_full3366.exe",
                 "OrgDownloadUrl":"http://download.wondershare.com/drfone_recover_full3366.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-407?quantity=1&ss_coupon=WOND-KWGH-SPEC&affiliate_id=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-407?quantity=1&locale=en_US&currency=USD&ss_coupon=WOND-KWGH-SPEC&affiliate_id=624209&affiliate=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560537566711"
             },
 
@@ -183,7 +183,7 @@
                 "dlID":"dl-ws-dr.fone-toolkit-android-data-recovery-mac",
                 "DownloadUrl":"https://seesrc.com/dm/wondershare/dr.fone-recover/drfone_recover_full3353.dmg",
                 "OrgDownloadUrl":"http://download.wondershare.com/drfone_recover_full3353.dmg",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-414?quantity=1&ss_coupon=WOND-KWGH-SPEC&affiliate_id=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-414?quantity=1&locale=en_US&currency=USD&ss_coupon=WOND-KWGH-SPEC&affiliate_id=624209&affiliate=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560537566711"
             },
              */
@@ -203,7 +203,7 @@
                 "dlID":"dl-ws-dr.fone-ios-repair-win",
                 "DownloadUrl":"https://seesrc.com/dm/wondershare/dr.fone-repair/drfone_repair_setup_full3371.exe",
                 "OrgDownloadUrl":"http://download.wondershare.com/drfone_repair_full3371.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-410?quantity=1&ss_coupon=WOND-KWGH-SPEC&affiliate_id=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-410?quantity=1&locale=en_US&currency=USD&ss_coupon=WOND-KWGH-SPEC&affiliate_id=624209&affiliate=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=562619045620"
             },
             {
@@ -219,7 +219,7 @@
                 "dlID":"dl-ws-dr.fone-ios-repair-mac",
                 "DownloadUrl":"https://seesrc.com/dm/wondershare/dr.fone-repair/drfone_repair_full3358.dmg",
                 "OrgDownloadUrl":"http://download.wondershare.com/drfone_repair_full3358.dmg",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-417?quantity=1&ss_coupon=WOND-KWGH-SPEC&affiliate_id=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-417?quantity=1&locale=en_US&currency=USD&ss_coupon=WOND-KWGH-SPEC&affiliate_id=624209&affiliate=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=562761671796"
             }
 
@@ -238,7 +238,7 @@
                 "dlID":"dl-ws-dr.fone-ios-unlock-mac",
                 "DownloadUrl":"https://seesrc.com/dm/wondershare/dr.fone-unlock/drfone_unlock_full3359.dmg",
                 "OrgDownloadUrl":"http://download.wondershare.com/drfone_unlock_full3359.dmg",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-420?quantity=1&ss_coupon=WOND-KWGH-SPEC&affiliate_id=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-420?quantity=1&locale=en_US&currency=USD&ss_coupon=WOND-KWGH-SPEC&affiliate_id=624209&affiliate=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=563878976795"
             }
             // dr.fone-unlock for android
@@ -255,7 +255,7 @@
                 "dlID":"dl-ws-dr.fone-android-unlock-win",
                 "DownloadUrl":"https://seesrc.com/dm/wondershare/dr.fone-unlock/drfone_unlock_setup_full3372.exe",
                 "OrgDownloadUrl":"http://download.wondershare.com/drfone_unlock_full3372.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-412?quantity=1&ss_coupon=WOND-KWGH-SPEC&affiliate_id=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-412?quantity=1&locale=en_US&currency=USD&ss_coupon=WOND-KWGH-SPEC&affiliate_id=624209&affiliate=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=564140751369"
             }
 
@@ -274,7 +274,7 @@
                 "dlID":"dl-ws-dr.fone-ios-erase-mac",
                 "DownloadUrl":"https://seesrc.com/dm/wondershare/dr.fone-erase/drfone_erase_full3357.dmg",
                 "OrgDownloadUrl":"http://download.wondershare.com/drfone_erase_full3357.dmg",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-419?quantity=1&ss_coupon=WOND-KWGH-SPEC&affiliate_id=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-419?quantity=1&locale=en_US&currency=USD&ss_coupon=WOND-KWGH-SPEC&affiliate_id=624209&affiliate=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=564116401117"
             }
             ,{
@@ -290,7 +290,7 @@
                 "dlID":"dl-ws-dr.fone-ios-erase-win",
                 "DownloadUrl":"https://seesrc.com/dm/wondershare/dr.fone-erase/drfone_erase_setup_full3370.exe",
                 "OrgDownloadUrl":"http://download.wondershare.com/drfone_erase_full3370.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-425?quantity=1&ss_coupon=WOND-KWGH-SPEC&affiliate_id=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-425?quantity=1&locale=en_US&currency=USD&ss_coupon=WOND-KWGH-SPEC&affiliate_id=624209&affiliate=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=564184614848"
             }
             // dr.fone-erase for android
@@ -307,7 +307,7 @@
                 "dlID":"dl-ws-dr.fone-android-erase-win",
                 "DownloadUrl":"https://seesrc.com/dm/wondershare/dr.fone-erase/drfone_erase_setup_full3370.exe",
                 "OrgDownloadUrl":"http://download.wondershare.com/drfone_erase_full3370.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-411?quantity=1&ss_coupon=WOND-KWGH-SPEC&affiliate_id=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-411?quantity=1&locale=en_US&currency=USD&ss_coupon=WOND-KWGH-SPEC&affiliate_id=624209&affiliate=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=564169509404"
             }
 

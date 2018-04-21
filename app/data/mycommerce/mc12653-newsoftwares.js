@@ -15,7 +15,7 @@
                 "dlID":"dl-green-hard-drive-data-recovery-pro-win",
                 "DownloadUrl":"https://seesrc.com/dm/newsoftwares/folder-lock-en.exe",
                 "OrgDownloadUrl":"http://www.newsoftwares.net/download/folderlock7-en/folder-lock-en.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/12653-1?affiliate_id=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/12653-1?quantity=1&locale=en_US&currency=USD&affiliate_id=624209&affiliate=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=559826218000"
             }
         ]

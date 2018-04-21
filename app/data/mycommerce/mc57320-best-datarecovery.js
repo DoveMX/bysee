@@ -15,7 +15,7 @@
                 "dlID":"dl-green-sd-card-data-recovery-pro-win",
                 "DownloadUrl":"https://seesrc.com/dm/best-datarecovery/green_sd_card_data_recovery.exe",
                 "OrgDownloadUrl":"http://www.best-datarecovery.com/donwload/green_sd_card_data_recovery.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/57320-10?affiliate_id=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/57320-10?quantity=1&locale=en_US&currency=USD&affiliate_id=624209&affiliate=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=561583365779"   
             },
             {
@@ -31,7 +31,7 @@
                 "dlID":"dl-green-digital-photo-recovery-pro-win",
                 "DownloadUrl":"https://seesrc.com/dm/best-datarecovery/green_digital_photo_recovery.exe",
                 "OrgDownloadUrl":"http://www.best-datarecovery.com/donwload/green_digital_photo_recovery.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/57320-2?affiliate_id=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/57320-2?quantity=1&locale=en_US&currency=USD&affiliate_id=624209&affiliate=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=561681614537"
             },
             {
@@ -47,7 +47,7 @@
                 "dlID":"dl-green-hard-drive-data-recovery-pro-win",
                 "DownloadUrl":"https://seesrc.com/dm/best-datarecovery/green_hard_drive_data_recovery.exe",
                 "OrgDownloadUrl":"http://www.best-datarecovery.com/donwload/green_hard_drive_data_recovery.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/57320-3?affiliate_id=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/57320-3?quantity=1&locale=en_US&currency=USD&affiliate_id=624209&affiliate=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=561704202436"
             }
         ]
