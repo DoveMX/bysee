@@ -1,0 +1,14 @@
+/* 导航条背景色*/
+.skin-box-bd .menu-list{background: none repeat scroll 0 0 #E6E6E6;}
+/*首页/店铺动态背景色*/
+.skin-box-bd .menu-list .link{background: none repeat scroll 0 0 #E6E6E6;}
+/*首页/店铺动态右边线*/
+.skin-box-bd .menu-list .menu{border-right:1px #000000 solid;}
+/*首页/店铺动态文字颜色*/
+.skin-box-bd .menu-list .menu .title{color:#000000}
+/*所有分类背景色*/
+.all-cats .link{background: none repeat scroll 0 0 #000000;}
+/*所有分类右边线*/
+.all-cats .link{border-right:1px #000000 solid;}
+/*所有分类文字颜色*/
+.skin-box-bd .all-cats .title{color:#000000}

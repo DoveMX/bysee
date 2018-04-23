@@ -1,0 +1,176 @@
+/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+
+/* Header CSS Custom */
+body.home .hero {
+  padding: 0px;
+}
+
+.site-header-wrapper {
+    padding: 15px 0 0;
+    min-height: 0;
+    height: auto;
+}
+
+.site-header .site-title-wrapper {
+    margin: 0;
+}
+
+.home .site-header-wrapper {
+    height: auto;
+}
+
+.hero .hero-inner  {
+    padding: 0;
+}
+
+.hero-inner .page-title-container {
+    display: none;
+}
+
+.hero .widget {
+    width: 100%;
+    margin: 0;
+}
+
+/* Main Navigation Menu Item css */
+.main-navigation .current_page_item > a, .main-navigation .current-menu-item > a, .main-navigation .current_page_ancestor > a, .main-navigation .current_page_parent > a, .main-navigation .current-menu-ancestor > a {
+    border-bottom-color: #000000;
+}
+
+.main-navigation a:hover, .main-navigation a:visited:hover {
+    border-bottom-color: #000000;
+}
+
+.main-navigation li li a:hover, .main-navigation li li a:visited:hover {
+    color: #f5f5f5;
+    background: #960037;
+}
+
+/* page content */
+.hentry {
+   padding: 0;
+}
+
+/* Page Title */
+.home .page-header {
+    display: none;
+}
+
+/* Main pafg hide ttile */
+.site-main .page-title-container{
+    display: none;
+}
+
+/* Main Content padding resetting */
+#content {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+/* */
+.share_buttons_2 {
+    display: none;
+}
+
+.widget_hugeit_slider_widget {
+   padding: 0;
+}
+
+#content .page-title-container {
+   text-align: center; 
+}
+/*
+Fix for right sidebar hidden
+*/
+.large-8, #primary, .featured-content .entry-header .entry-header-column, .featured-content article {
+    width: 100%;
+}
+
+/*
+page title font use normal style
+*/
+
+.site-header .page-title-container .page-title, h3, h4, h5 {
+  text-transform: none;
+}
+
+.page-content h3, h4, h5 {
+   font-size: 18px;
+}
+
+.page-content p {
+   font-size: 15px;
+}
+
+li {
+   list-style-type: disc;
+}
+
+.custom-h3-style {
+    background: #960037;
+    border-bottom: 1px solid #960037;
+    border-radius: 8px 8px 0 0;
+    color: #FFF;
+    padding: 5px 15px;
+    width: 15%;
+    margin: 0;
+    font-size: 25px;
+}
+
+.custom-line {
+    height: 1px;
+    background: #960037;
+    margin: 0 0 15px 0;
+}
+
+/* Post date, post author display*/
+.entry-meta {
+   display: none;
+}
+
+.featured-image {
+   display: none;
+}
+
+/**
+ For elementor editor builder
+ **/
+.eael-grid-post .eael-entry-wrapper, .eael-grid-post .eael-entry-footer {
+  padding: 0px;
+}
+.eae-pl-content-box, .eae-pl-readmore {
+  font-size: 13px;
+  
+}
+
+.eae-pl-readmore a {
+    border: 1px solid #ddd;
+}
+
+/* prodcut list item*/
+.wts-eae-pl-wrapper > ul > li{
+    background: -webkit-linear-gradient(top,rgb(255,255,255),rgb(245,245,245) 100%);
+    border-bottom: 2px solid #f3f3f3;
+    position: relative;
+    padding-top: 4px;
+    list-style: none;
+}
+.wts-eae-pl-wrapper > ul > li:hove {
+    background: #fff;
+}
+
+/* gmagon-nav-item */
+.gmagon-nav-item .elementor-heading-title {
+    background: #d5dadf;
+    padding: 5px;
+    border-left: 5px solid #960037;
+}
+
+.gmagon-nav-item-feature .elementor-heading-title {
+    border-bottom: 2px solid #6d7882;
+}
