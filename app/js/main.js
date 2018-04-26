@@ -86,7 +86,7 @@ $(document).ready(function() {
                         e.preventDefault();
                         var tr = $(e.target).closest("tr");
                         var data = this.dataItem(tr);
-                        var exchange= 6.95;
+                        var exchange= 7; // 以汇率7.0为边界
 
                         var taobao_price = data.orgPrice * exchange;
                         var price = data.orgPrice * (100.0 - data.Commission) * exchange /100.0;
