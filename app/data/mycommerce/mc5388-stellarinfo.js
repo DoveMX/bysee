@@ -15,7 +15,7 @@
                 "dlID":"dl-stellarphoenixwindowsdatarecovery-professional-win",
                 "DownloadUrl":"https://seesrc.com/dm/www.stellarinfo.com/windows-data-recovery-professional/StellarPhoenixWindowsDataRecovery-Professional.exe",
                 "OrgDownloadUrl":"http://download.stellarinfo.com/StellarPhoenixWindowsDataRecovery-Professional.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/5388-52?affiliate_id=617007",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/5388-52?affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=568740883832"
             }
         ]
