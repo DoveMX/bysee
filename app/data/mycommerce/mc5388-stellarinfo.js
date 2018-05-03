@@ -26,13 +26,28 @@
                 "dlID":"dl-stellarphoenixwindowsdatarecovery-professional-win",
                 "DownloadUrl":"https://seesrc.com/dm/www.stellarinfo.com/windows-data-recovery-professional/StellarPhoenixWindowsDataRecovery-Professional.exe",
                 "OrgDownloadUrl":"http://download.stellarinfo.com/StellarPhoenixWindowsDataRecovery-Professional.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/5388-52?affiliate_id=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/5388-52?quantity=1&locale=en_US&currency=USD&affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=568740883832"
             },
 
             /// Stellar Phoenix Mac Data Recovery
             //TODO: Stellar Phoenix Mac Data Recovery
-
+            {
+                "Pname":"原子正版 Stellar Phoenix Mac Data Recovery 数据恢复工具",
+                "Pid":"mc5388-stellarinfo-StellarPhoenixMacDataRecovery–Professiona_-mac",
+                "Name":"Stellar Phoenix Mac Data Recovery – Professional",
+                "OS": "mac",
+                "site":"https://www.stellarinfo.com/data-recovery-mac.php",
+                "orgPrice":99,
+                "sitePrice":99,
+                "productID":"5388-29",
+                "Commission": 30,
+                "dlID":"dl-stellarphoenixmacdatarecovery-professional-mac",
+                "DownloadUrl":"https://seesrc.com/dm/www.stellarinfo.com/data-recovery-mac/StellarPhoenixMacDataRecovery-Professional.dmg.zip",
+                "OrgDownloadUrl":"http://download.stellarinfo.com/StellarPhoenixMacDataRecovery-Professional.dmg.zip",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/5388-29?quantity=1&locale=en_US&currency=USD&affiliate_id=624209",
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=568972913135"
+            },
 
             /// Stellar Phoenix Video Repair Tool
             {
@@ -48,7 +63,7 @@
                 "dlID":"dl-stellarphoenixvideorepairtool-win",
                 "DownloadUrl":"https://seesrc.com/dm/www.stellarinfo.com/video-repair/StellarPhoenixVideoRepair.exe",
                 "OrgDownloadUrl":"http://download.stellarinfo.com/StellarPhoenixVideoRepair.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/5388-139?affiliate_id=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/5388-139?quantity=1&locale=en_US&currency=USD&affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=568502736127"
             },
             {
@@ -64,7 +79,7 @@
                 "dlID":"dl-stellarphoenixvideorepairtool-mac",
                 "DownloadUrl":"https://seesrc.com/dm/www.stellarinfo.com/video-repair/StellarPhoenixVideoRepair.dmg.zip",
                 "OrgDownloadUrl":"http://download.stellarinfo.com/StellarPhoenixVideoRepair.dmg.zip",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/5388-112?affiliate_id=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/5388-112?quantity=1&locale=en_US&currency=USD&affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=568784766154"
             }
 
