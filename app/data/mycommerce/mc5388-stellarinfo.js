@@ -81,6 +81,40 @@
                 "OrgDownloadUrl":"http://download.stellarinfo.com/StellarPhoenixVideoRepair.dmg.zip",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/5388-112?quantity=1&locale=en_US&currency=USD&affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=568784766154"
+            },
+
+            /// Stellar Phoenix Photo Recovery (Digital-Media-Recovery) 
+            {
+                "Pname":"原子正版 Stellar Phoenix Photo Recovery 相片视频音频恢复工具 Windows版本",
+                "Pid":"mc5388-stellarinfo-StellarPhoenixDigitalMediaRecovery_-win",
+                "Name":"Stellar Phoenix Photo Recovery (DigitalMediaRecovery) - Windows",
+                "OS": "win",
+                "site":"https://www.stellarinfo.com/digital-media-recovery.php",
+                "orgPrice":59.99,
+                "sitePrice":59.99,
+                "productID":"5388-137",
+                "Commission": 30,
+                "dlID":"dl-stellarphoenixdigitalmediarecovery-win",
+                "DownloadUrl":"https://seesrc.com/dm/www.stellarinfo.com/digital-media-recovery/StellarPhoenixPhotoRecovery.exe",
+                "OrgDownloadUrl":"http://download.stellarinfo.com/StellarPhoenixPhotoRecovery.exe",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/5388-137?quantity=1&locale=en_US&currency=USD&affiliate_id=624209",
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=569071912260"
+            },
+            {
+                "Pname":"原子正版 Stellar Phoenix Photo Recovery 相片视频音频恢复工具 Mac版本",
+                "Pid":"mc5388-stellarinfo-StellarPhoenixDigitalMediaRecovery_-mac",
+                "Name":"Stellar Phoenix Photo Recovery (DigitalMediaRecovery) - Mac",
+                "OS": "mac",
+                "site":"https://www.stellarinfo.com/digital-media-recovery.php",
+                "orgPrice":59.99,
+                "sitePrice":59.99,
+                "productID":"5388-138",
+                "Commission": 30,
+                "dlID":"dl-stellarphoenixdigitalmediarecovery-mac",
+                "DownloadUrl":"https://seesrc.com/dm/www.stellarinfo.com/digital-media-recovery/StellarPhoenixPhotoRecovery.dmg.zip",
+                "OrgDownloadUrl":"http://download.stellarinfo.com/StellarPhoenixPhotoRecovery.dmg.zip",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/5388-138?quantity=1&locale=en_US&currency=USD&affiliate_id=624209",
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=569203661474"
             }
 
 
