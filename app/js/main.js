@@ -25,14 +25,14 @@ $(document).ready(function() {
             group: [{field: "vendorName"}],
             pageSize: 100
         },
-        height: $(window).height() - 20,
+        width:$(window).width(),
         sortable: true,
         reorderable: true,
         groupable: true,
         resizable: true,
         filterable: true,
         columnMenu: true,
-        // selectable: "multiple cell",
+        selectable: "row",
         allowCopy: true,
         pageable: true,
         columns: [
@@ -75,7 +75,7 @@ $(document).ready(function() {
                 width: 80
             }, {
                 field: "orgPrice",
-                title: "预售价",
+                title: "官网价",
                 locked: false,
                 format: "${0}",
                 width: 80
@@ -137,12 +137,12 @@ $(document).ready(function() {
                 locked: true,
                 lockable: false
             },{
-                field: "sitePrice",
-                title: "官方价",
-                locked: false,
-                format: "${0}",
-                width: 80
-            }, {
+            //     field: "sitePrice",
+            //     title: "官方价",
+            //     locked: false,
+            //     format: "${0}",
+            //     width: 80
+            // }, {
                 field: "OS",
                 title: "💻",
                 width: 80,
@@ -155,8 +155,8 @@ $(document).ready(function() {
                 width: 120
             },  {
                 field: "site",
-                title: "官方网站",
-                width: 600
+                title: "官网",
+                width: 200
             },{
                 field: "DownloadUrl",
                 title: "试用下载",
