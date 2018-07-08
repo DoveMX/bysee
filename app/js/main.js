@@ -5,15 +5,10 @@ $(document).ready(function() {
             schema: {
                 model: {
                     fields: {
-                        "Pname": { type: "string" },
-                        "Pid": { type: "string" },
-                        "Name": { type: "string" },
+                        "TName": { type: "string" },
                         "OS": { type: "string" },
-                        "site": { type: "string" },
-                        "orgPrice": { type: "number" },
-                        "sitePrice": { type: "number" },
-                        "productID": { type: "string" },
-                        "OfficalProductID": { type: "string" },
+                        "SiteUrl": { type: "string" },
+                        "VendorPrice": { type: "number" },
                         "Commission": { type: "number" },
                         "DownloadUrl": { type: "string" },
                         "BuyUrl": { type: "string" },
@@ -22,8 +17,9 @@ $(document).ready(function() {
                     }
                 }
             },
-            group: [{field: "vendorName"}],
-            pageSize: 100
+            sort: { field: "TName", dir: "asc" },
+            group: [{field: "VendorName"}],
+            pageSize: 500
         },
         width:$(window).width(),
         sortable: true,
@@ -34,7 +30,6 @@ $(document).ready(function() {
         columnMenu: true,
         selectable: "row",
         allowCopy: true,
-        pageable: true,
         columns: [
             {
                 command:{
@@ -61,38 +56,37 @@ $(document).ready(function() {
                 lockable: false,
             },
             {
-                field: "Pname",
-                title: "名称",
+                field: "TName",
+                title: "淘宝商品名称",
                 locked: true,
                 lockable: false,
                 format: "{0}",
-                width: 400
+                sortable: true,
+                width: 560
             },  {
                 field: "Commission",
                 title: "佣金",
                 lockable: false,
                 format: "{0}%",
-                width: 80
+                width: 72
             }, {
-                field: "orgPrice",
+                field: "VendorPrice",
                 title: "官网价",
                 locked: false,
                 format: "${0}",
                 width: 80
             },{
                 command:{ 
-                    text: "利润",
+                    text: "计算利润",
                     click: function(e){
                         e.preventDefault();
                         var tr = $(e.target).closest("tr");
                         var data = this.dataItem(tr);
                         var exchange= 7; // 以汇率7.0为边界
 
-                        var taobao_price = data.orgPrice * exchange;
-                        var price = data.orgPrice * (100.0 - data.Commission) * exchange /100.0;
-                        var Profit = data.orgPrice * data.Commission * exchange / 100.0;
-                        var msg = '最低售价：' + kendo.toString(price, 'n0') + '元 ' +
-                                  '淘宝: ' + kendo.toString(taobao_price, 'n0') + '元 ' +
+                        var taobao_price = (data.VendorPrice * exchange)/10 * 10 + 9;
+                        var Profit = data.VendorPrice * (data.Commission - 5) * exchange / 100.0;
+                        var msg = '淘宝最低售价: ' + kendo.toString(taobao_price, 'n0') + '元 ' +
                                   '利润：' + kendo.toString(Profit, 'n0') + '元 '
                         window.alert(msg);
                     }
@@ -102,21 +96,26 @@ $(document).ready(function() {
                 locked: true
             },{
                 command:{ 
-                    text: "淘宝",
+                    text: "打开淘宝",
                     click: function(e){
                         e.preventDefault();
                         var tr = $(e.target).closest("tr");
                         var data = this.dataItem(tr);
-                        window.open(data.TaobaoUrl);
+                        if (_.trim(data.TaobaoUrl || "").length > 0) {
+                            window.open(data.TaobaoUrl);    
+                        } else {
+                            window.alert("没有对应的淘宝商品进行绑定！！");
+                        }
+                        
                     } 
                 },
-                title: "淘宝", 
+                title: "淘宝链接", 
                 width: 80,
                 locked: true,
                 lockable: false
             },{
                 command:{ 
-                    text: "复制试用",
+                    text: "复制试用下载",
                     iconClass: "k-icon k-i-copy",
                     click: function(e){
                         e.preventDefault();
@@ -132,49 +131,36 @@ $(document).ready(function() {
 
                     } 
                 },
-                title: "试用链接",
-                width: 120,
+                title: "试用下载链接",
+                width: 160,
                 locked: true,
                 lockable: false
             },{
-            //     field: "sitePrice",
-            //     title: "官方价",
-            //     locked: false,
-            //     format: "${0}",
-            //     width: 80
-            // }, {
                 field: "OS",
-                title: "💻",
-                width: 80,
+                title: "安装要求",
+                width: 84,
                 locked: true,
                 lockable: false
             },  {
-                field: "productID",
-                title: "产品ID",
-                lockable: false,
-                width: 120
-            },  {
-                field: "site",
+                command:{ 
+                    text: "打开官网",
+                    iconClass: "k-icon k-i-copy",
+                    click: function(e){
+                        e.preventDefault();
+                        var tr = $(e.target).closest("tr");
+                        var data = this.dataItem(tr);
+                        //window.open(data.DownloadUrl);
+                        var url = data.SiteUrl;
+                        window.copyToClipboard(url);
+
+                        //
+                        window.alert("官方网站地址已经拷贝成功! 默认打开 " + url);
+                        window.open(url);
+
+                    } 
+                },
                 title: "官网",
-                width: 200
-            },{
-                field: "DownloadUrl",
-                title: "试用下载",
-                lockable: false,
-                width: 600
-            },  {
-                field: "BuyUrl",
-                title: "购买授权",
-                lockable: false,
-                width: 600
-            },  {
-                field: "vendorID",
-                title: "供应商ID",
-                width: 120 
-            },  {
-                field: "vendorName",
-                title: "供应商",
-                width: 160 
+                width: 120
             }
         ]
     });

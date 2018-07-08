@@ -7,8 +7,10 @@
     };
 
     $.each(dataList.products, function(index, ele){
-        ele.vendorID = '';
-        ele.vendorName = '';
-        window["SellerData"].push(ele);
+        var one_product = _.extend({
+            "VendorID": '',
+            "VendorName":  ''
+        }, ele)
+        window["SellerData"].push(one_product);
     });
 })();

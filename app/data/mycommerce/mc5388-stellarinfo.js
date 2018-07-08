@@ -14,106 +14,82 @@
         "products":[
             /// Stellar Phoenix Windows Data Recovery
             {
-                "Pname":"原子正版 Stellar Phoenix Windows Data Recovery 数据恢复工具",
-                "Pid":"mc5388-stellarinfo-StellarPhoenixWindowsDataRecovery–Professiona_-win",
-                "Name":"Stellar Phoenix Windows Data Recovery – Professional",
-                "OS": "win",
-                "site":"https://www.stellarinfo.com/windows-data-recovery-professional.php",
-                "orgPrice":99,
-                "sitePrice":99,
-                "productID":"5388-52",
+                "TName":"原子正版 Stellar Phoenix Windows Data Recovery 数据恢复工具",
+                "OS":"Windows",
+                "SiteUrl":"https://www.stellarinfo.com/windows-data-recovery-professional.php",
+                "VendorPrice":99,
+                "ID":"5388-52",
                 "Commission": 40,
                 "dlID":"dl-stellarphoenixwindowsdatarecovery-professional-win",
                 "DownloadUrl":"https://seesrc.com/dm/www.stellarinfo.com/windows-data-recovery-professional/StellarPhoenixWindowsDataRecovery-Professional.exe",
-                "OrgDownloadUrl":"http://download.stellarinfo.com/StellarPhoenixWindowsDataRecovery-Professional.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/5388-52?quantity=1&locale=en_US&currency=USD&affiliate_id=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/5388-52?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=568740883832"
             },
 
             /// Stellar Phoenix Mac Data Recovery
             //TODO: Stellar Phoenix Mac Data Recovery
             {
-                "Pname":"原子正版 Stellar Phoenix Mac Data Recovery 数据恢复工具",
-                "Pid":"mc5388-stellarinfo-StellarPhoenixMacDataRecovery–Professiona_-mac",
-                "Name":"Stellar Phoenix Mac Data Recovery – Professional",
-                "OS": "mac",
-                "site":"https://www.stellarinfo.com/data-recovery-mac.php",
-                "orgPrice":99,
-                "sitePrice":99,
-                "productID":"5388-29",
+                "TName":"原子正版 Stellar Phoenix Mac Data Recovery 数据恢复工具",
+                "OS": "Mac",
+                "SiteUrl":"https://www.stellarinfo.com/data-recovery-mac.php",
+                "VendorPrice":99,
+                "ID":"5388-29",
                 "Commission": 30,
                 "dlID":"dl-stellarphoenixmacdatarecovery-professional-mac",
                 "DownloadUrl":"https://seesrc.com/dm/www.stellarinfo.com/data-recovery-mac/StellarPhoenixMacDataRecovery-Professional.dmg.zip",
-                "OrgDownloadUrl":"http://download.stellarinfo.com/StellarPhoenixMacDataRecovery-Professional.dmg.zip",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/5388-29?quantity=1&locale=en_US&currency=USD&affiliate_id=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/5388-29?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=568972913135"
             },
 
             /// Stellar Phoenix Video Repair Tool
             {
-                "Pname":"原子正版 Stellar Phoenix Video Repair Tool 视频恢复工具 Windows版本",
-                "Pid":"mc5388-stellarinfo-StellarPhoenixVideoRepairTool_-win",
-                "Name":"Stellar Phoenix Video Repair Tool - Windows",
-                "OS": "win",
-                "site":"https://www.stellarinfo.com/disk-recovery/video-repair.php",
-                "orgPrice":69.99,
-                "sitePrice":69.99,
-                "productID":"5388-139",
+                "TName":"原子正版 Stellar Phoenix Video Repair Tool 视频恢复工具 Windows版本",
+                "OS":"Windows",
+                "SiteUrl":"https://www.stellarinfo.com/disk-recovery/video-repair.php",
+                "VendorPrice":69.99,
+                "ID":"5388-139",
                 "Commission": 30,
                 "dlID":"dl-stellarphoenixvideorepairtool-win",
                 "DownloadUrl":"https://seesrc.com/dm/www.stellarinfo.com/video-repair/StellarPhoenixVideoRepair.exe",
-                "OrgDownloadUrl":"http://download.stellarinfo.com/StellarPhoenixVideoRepair.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/5388-139?quantity=1&locale=en_US&currency=USD&affiliate_id=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/5388-139?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=568502736127"
             },
             {
-                "Pname":"原子正版 Stellar Phoenix Video Repair Tool 视频恢复工具 Mac版本",
-                "Pid":"mc5388-stellarinfo-StellarPhoenixVideoRepairTool_-mac",
-                "Name":"Stellar Phoenix Video Repair Tool - Mac",
-                "OS": "mac",
-                "site":"https://www.stellarinfo.com/disk-recovery/video-repair.php",
-                "orgPrice":69.99,
-                "sitePrice":69.99,
-                "productID":"5388-112",
+                "TName":"原子正版 Stellar Phoenix Video Repair Tool 视频恢复工具 Mac版本",
+                "OS": "Mac",
+                "SiteUrl":"https://www.stellarinfo.com/disk-recovery/video-repair.php",
+                "VendorPrice":69.99,
+                "ID":"5388-112",
                 "Commission": 30,
                 "dlID":"dl-stellarphoenixvideorepairtool-mac",
                 "DownloadUrl":"https://seesrc.com/dm/www.stellarinfo.com/video-repair/StellarPhoenixVideoRepair.dmg.zip",
-                "OrgDownloadUrl":"http://download.stellarinfo.com/StellarPhoenixVideoRepair.dmg.zip",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/5388-112?quantity=1&locale=en_US&currency=USD&affiliate_id=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/5388-112?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=568784766154"
             },
 
             /// Stellar Phoenix Photo Recovery (Digital-Media-Recovery) 
             {
-                "Pname":"原子正版 Stellar Phoenix Photo Recovery 相片视频音频恢复工具 Windows版本",
-                "Pid":"mc5388-stellarinfo-StellarPhoenixDigitalMediaRecovery_-win",
-                "Name":"Stellar Phoenix Photo Recovery (DigitalMediaRecovery) - Windows",
-                "OS": "win",
-                "site":"https://www.stellarinfo.com/digital-media-recovery.php",
-                "orgPrice":59.99,
-                "sitePrice":59.99,
-                "productID":"5388-137",
+                "TName":"原子正版 Stellar Phoenix Photo Recovery 相片视频音频恢复工具 Windows版本",
+                "OS":"Windows",
+                "SiteUrl":"https://www.stellarinfo.com/digital-media-recovery.php",
+                "VendorPrice":59.99,
+                "ID":"5388-137",
                 "Commission": 30,
                 "dlID":"dl-stellarphoenixdigitalmediarecovery-win",
                 "DownloadUrl":"https://seesrc.com/dm/www.stellarinfo.com/digital-media-recovery/StellarPhoenixPhotoRecovery.exe",
-                "OrgDownloadUrl":"http://download.stellarinfo.com/StellarPhoenixPhotoRecovery.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/5388-137?quantity=1&locale=en_US&currency=USD&affiliate_id=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/5388-137?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=569071912260"
             },
             {
-                "Pname":"原子正版 Stellar Phoenix Photo Recovery 相片视频音频恢复工具 Mac版本",
-                "Pid":"mc5388-stellarinfo-StellarPhoenixDigitalMediaRecovery_-mac",
-                "Name":"Stellar Phoenix Photo Recovery (DigitalMediaRecovery) - Mac",
-                "OS": "mac",
-                "site":"https://www.stellarinfo.com/digital-media-recovery.php",
-                "orgPrice":59.99,
-                "sitePrice":59.99,
-                "productID":"5388-138",
+                "TName":"原子正版 Stellar Phoenix Photo Recovery 相片视频音频恢复工具 Mac版本",
+                "OS": "Mac",
+                "SiteUrl":"https://www.stellarinfo.com/digital-media-recovery.php",
+                "VendorPrice":59.99,
+                "ID":"5388-138",
                 "Commission": 30,
                 "dlID":"dl-stellarphoenixdigitalmediarecovery-mac",
                 "DownloadUrl":"https://seesrc.com/dm/www.stellarinfo.com/digital-media-recovery/StellarPhoenixPhotoRecovery.dmg.zip",
-                "OrgDownloadUrl":"http://download.stellarinfo.com/StellarPhoenixPhotoRecovery.dmg.zip",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/5388-138?quantity=1&locale=en_US&currency=USD&affiliate_id=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/5388-138?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=569203661474"
             }
 
@@ -123,8 +99,10 @@
     };
 
     $.each(dataList.products, function(index, ele){
-        ele.vendorID = 'mc5388';
-        ele.vendorName = 'Stellar Data Recovery Inc';
-        window["SellerData"].push(ele);
+        var one_product = _.extend({
+            "VendorID": 'mc5388',
+            "VendorName":  'Stellar Data Recovery Inc'
+        }, ele)
+        window["SellerData"].push(one_product);
     });
 })();
