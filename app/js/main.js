@@ -132,7 +132,7 @@ $(document).ready(function() {
                     } 
                 },
                 title: "试用下载链接",
-                width: 160,
+                width: 128,
                 locked: true,
                 lockable: false
             },{
