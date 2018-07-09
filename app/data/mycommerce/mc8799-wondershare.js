@@ -6,6 +6,7 @@
             "For PC": [
                 /// 针对PC的常用产品
                 {
+                    "SName":"WonderShare Data Recovery",
                     "TName":"原子正版 WonderShareDataRecovery硬盘U盘数据恢复 Windows版本",
                     "OS":"Windows",
                     "SiteUrl":"https://datarecovery.wondershare.com/",
@@ -18,6 +19,7 @@
                     "TaobaoUrl":"https://item.taobao.com/item.htm?id=559992808327"
                 }
                 ,{
+                    "SName":"WonderShare Data Recovery",
                     "TName":"原子正版 WonderShareDataRecovery硬盘U盘数据恢复 Mac版本",
                     "OS": "Mac",
                     "SiteUrl":"https://datarecovery.wondershare.com/",

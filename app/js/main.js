@@ -138,8 +138,6 @@ $(document).ready(function() {
 
                         //
                         window.alert("试用下载地址已经拷贝成功! " + url);
-                        window.open(url);
-
                     } 
                 }],
                 title: "试用下载链接",
