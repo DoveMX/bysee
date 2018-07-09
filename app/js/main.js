@@ -177,7 +177,7 @@ $(document).ready(function() {
             },{
                 field: "SName",
                 title: "关联名称",
-                template: '<sub style="font-style: oblique; color: gray;">#: SName # </sub>',
+                template: '<span style="font-style: oblique; color: gray;">#: SName # </span>',
                 width: 200                
             }
         ]
