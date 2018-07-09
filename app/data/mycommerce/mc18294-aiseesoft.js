@@ -138,7 +138,8 @@
     $.each(dataList.products, function(index, ele){
         var one_product = _.extend({
             "VendorID": 'mc18294',
-            "VendorName":  'Aiseesoft'
+            "VendorName":  'Aiseesoft',
+            "SName":""
         }, ele)
         window["SellerData"].push(one_product);
     });

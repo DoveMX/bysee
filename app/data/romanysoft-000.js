@@ -59,7 +59,8 @@
     $.each(dataList.products, function(index, ele){
         var one_product = _.extend({
             "VendorID": '1',
-            "VendorName":  'Romanysoft(漫软)'
+            "VendorName":  'Romanysoft(漫软)',
+            "SName":""
         }, ele)
         window["SellerData"].push(one_product);
     });

@@ -20,7 +20,8 @@
     $.each(dataList.products, function(index, ele){
         var one_product = _.extend({
             "VendorID": 'mc12653',
-            "VendorName":  'newsoftwares'
+            "VendorName":  'newsoftwares',
+            "SName":""
         }, ele)
         window["SellerData"].push(one_product);
     });

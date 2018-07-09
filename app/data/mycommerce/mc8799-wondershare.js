@@ -39,6 +39,7 @@
             "Dr.fone for iOS": [
                 /// iOS Unlock Tool
                 {
+                    "SName":"iOS Unlock Tool",
                     "TName":"原子正版 Dr.Fone iOS解锁工具(iPhone手机或iPad) Windows版本",
                     "OS":"Windows",
                     "SiteUrl":"https://drfone.wondershare.com/ios-unlock.html",
@@ -51,6 +52,7 @@
                     "TaobaoUrl":"https://item.taobao.com/item.htm?id=572943317399"
                 }
                 ,{
+                    "SName":"iOS Unlock Tool",
                     "TName":"原子正版 Dr.Fone iOS解锁工具(iPhone手机或iPad) Mac版本",
                     "OS": "Mac",
                     "SiteUrl":"https://drfone.wondershare.com/ios-unlock.html",
@@ -64,6 +66,7 @@
                 }
                 /// iOS Recover Tool
                 ,{
+                    "SName":"iOS Recover Tool",
                     "TName":"原子正版 Dr.fone iOS数据恢复(iPhone手机或iPad) Windows版本",
                     "OS":"Windows",
                     "SiteUrl":"https://drfone.wondershare.com/iphone-data-recovery.html",
@@ -76,6 +79,7 @@
                     "TaobaoUrl":"https://item.taobao.com/item.htm?id=560481734544"
                 }
                 ,{
+                    "SName":"iOS Recover Tool",
                     "TName":"原子正版 Dr.fone iOS数据恢复(iPhone手机或iPad) Mac版本",
                     "OS": "Mac",
                     "SiteUrl":"https://drfone.wondershare.com/iphone-data-recovery.html",
@@ -89,6 +93,7 @@
                 }
                 /// iOS Transfer Tool
                 ,{
+                    "SName":"iOS Transfer Tool",
                     "TName":"原子正版 Dr.fone iOS数据传输(iPhone手机或iPad) Windows版本",
                     "OS":"Windows",
                     "SiteUrl":"https://drfone.wondershare.com/ios-transfer.html",
@@ -101,6 +106,7 @@
                     "TaobaoUrl":""
                 }
                 ,{
+                    "SName":"iOS Transfer Tool",
                     "TName":"原子正版 Dr.fone iOS数据传输(iPhone手机或iPad) Mac版本",
                     "OS": "Mac",
                     "SiteUrl":"https://drfone.wondershare.com/ios-transfer.html",
@@ -114,6 +120,7 @@
                 }
                 /// iOS Switch Tool
                 ,{
+                    "SName":"iOS Switch Tool",
                     "TName":"原子正版 Dr.fone iOS设备迁移(iPhone手机或iPad) Windows版本",
                     "OS":"Windows",
                     "SiteUrl":"https://drfone.wondershare.com/phone-switch.html",
@@ -126,6 +133,7 @@
                     "TaobaoUrl":""
                 }
                 ,{
+                    "SName":"iOS Switch Tool",
                     "TName":"原子正版 Dr.fone iOS设备迁移(iPhone手机或iPad) Mac版本",
                     "OS": "Mac",
                     "SiteUrl":"https://drfone.wondershare.com/phone-switch.html",
@@ -139,6 +147,7 @@
                 }
                 /// iOS Erase Tool
                 ,{
+                    "SName":"iOS Erase Tool",
                     "TName":"原子正版 Dr.Fone iOS数据擦除(iPhone手机或iPad) Windows版本",
                     "OS":"Windows",
                     "SiteUrl":"https://drfone.wondershare.com/ios-data-eraser.html",
@@ -151,6 +160,7 @@
                     "TaobaoUrl":"https://item.taobao.com/item.htm?id=564184614848"
                 }
                 ,{
+                    "SName":"iOS Erase Tool",
                     "TName":"原子正版 Dr.Fone iOS数据擦除(iPhone手机或iPad) Mac版本",
                     "OS": "Mac",
                     "SiteUrl":"https://drfone.wondershare.com/ios-data-eraser.html",
@@ -164,6 +174,7 @@
                 }
                 /// iOS Backup and Restore Tool
                 ,{
+                    "SName":"iOS Backup and Restore Tool",
                     "TName":"原子正版 Dr.fone iOS备份恢复(iPhone手机或iPad) Windows版本",
                     "OS":"Windows",
                     "SiteUrl":"https://drfone.wondershare.com/ios-data-backup-and-restore.html",
@@ -176,6 +187,7 @@
                     "TaobaoUrl":""
                 }
                 ,{
+                    "SName":"iOS Backup and Restore Tool",
                     "TName":"原子正版 Dr.fone iOS备份恢复(iPhone手机或iPad) Mac版本",
                     "OS": "Mac",
                     "SiteUrl":"https://drfone.wondershare.com/ios-data-backup-and-restore.html",
@@ -189,6 +201,7 @@
                 }
                 /// iOS Repair Tool
                 ,{
+                    "SName":"iOS Repair Tool",
                     "TName":"原子正版 Dr.Fone iOS系统修复(iPhone手机或iPad) Windows版本",
                     "OS":"Windows",
                     "SiteUrl":"https://drfone.wondershare.com/ios-system-recovery.html",
@@ -201,6 +214,7 @@
                     "TaobaoUrl":"https://item.taobao.com/item.htm?id=562619045620"
                 }
                 ,{
+                    "SName":"iOS Repair Tool",
                     "TName":"原子正版 Dr.Fone iOS系统修复(iPhone手机或iPad) Mac版本",
                     "OS": "Mac",
                     "SiteUrl":"https://drfone.wondershare.com/ios-system-recovery.html",
@@ -215,6 +229,7 @@
                 /// iOS Restore Social App Tool
                 /// iOS Toolkit
                 ,{
+                    "SName":"iOS Toolkit",
                     "TName":"原子正版 Dr.fone iOS工具全套装(iPhone手机或iPad) Windows版本",
                     "OS":"Windows",
                     "SiteUrl":"https://drfone.wondershare.com/drfone-toolkit.html",
@@ -227,6 +242,7 @@
                     "TaobaoUrl":"https://item.taobao.com/item.htm?id=560419993067"
                 }
                 ,{
+                    "SName":"iOS Toolkit",
                     "TName":"原子正版 Dr.fone iOS工具全套装(iPhone手机或iPad) Mac版本",
                     "OS": "Mac",
                     "SiteUrl":"https://drfone.wondershare.com/drfone-toolkit.html",
@@ -243,6 +259,7 @@
             "Dr.fone for Android": [
                 /// Android Unlock Tool
                 {
+                    "SName":"Android Unlock Tool",
                     "TName":"原子正版 Dr.Fone Andoird 安卓手机解锁工具 Windows版本",
                     "OS":"Windows",
                     "SiteUrl":"https://drfone.wondershare.com/android-lock-screen-removal.html",
@@ -256,6 +273,7 @@
                 }
                 /// Android Recover Tool
                 ,{
+                    "SName":"Android Recover Tool",
                     "TName":"原子正版 Dr.Fone Android 安卓手机数据恢复工具 Windows版本",
                     "OS":"Windows",
                     "SiteUrl":"https://drfone.wondershare.com/android-data-recovery.html",
@@ -268,6 +286,7 @@
                     "TaobaoUrl":"https://item.taobao.com/item.htm?id=560537566711"
                 }
                 ,{
+                    "SName":"Android Recover Tool",
                     "TName":"原子正版 Dr.Fone Android 安卓手机数据恢复工具 Mac版本",
                     "OS": "Mac",
                     "SiteUrl":"https://drfone.wondershare.com/android-data-recovery.html",
@@ -281,6 +300,7 @@
                 }
                 /// Android Transfer Tool
                 ,{
+                    "SName":"Android Transfer Tool",
                     "TName":"原子正版 Dr.Fone Android 安卓手机数据传输工具 Windows版本",
                     "OS":"Windows",
                     "SiteUrl":"https://drfone.wondershare.com/android-transfer.html",
@@ -293,6 +313,7 @@
                     "TaobaoUrl":"https://item.taobao.com/item.htm?id=560537566711"
                 }
                 ,{
+                    "SName":"Android Transfer Tool",
                     "TName":"原子正版 Dr.Fone Android 安卓手机数据传输工具 Mac版本",
                     "OS": "Mac",
                     "SiteUrl":"https://drfone.wondershare.com/android-transfer.html",
@@ -306,6 +327,7 @@
                 }
                 /// Android Switch Tool
                 ,{
+                    "SName":"Android Switch Tool",
                     "TName":"原子正版 Dr.Fone Android 安卓手机设备迁移工具 Windows版本",
                     "OS":"Windows",
                     "SiteUrl":"https://drfone.wondershare.com/phone-switch.html",
@@ -318,6 +340,7 @@
                     "TaobaoUrl":"https://item.taobao.com/item.htm?id=560537566711"
                 }
                 ,{
+                    "SName":"Android Switch Tool",
                     "TName":"原子正版 Dr.Fone Android 安卓手机设备迁移工具 Mac版本",
                     "OS": "Mac",
                     "SiteUrl":"https://drfone.wondershare.com/phone-switch.html",
@@ -331,6 +354,7 @@
                 }
                 /// Android Backup and Restore Tool
                 ,{
+                    "SName":"Android Backup and Restore Tool",
                     "TName":"原子正版 Dr.Fone Android 安卓手机备份还原工具 Windows版本",
                     "OS":"Windows",
                     "SiteUrl":"https://drfone.wondershare.com/android-data-backup-and-restore.html",
@@ -344,6 +368,7 @@
                 }
                 /// Android Erase Tool
                 ,{
+                    "SName":"Android Erase Tool",
                     "TName":"原子正版 Dr.Fone Android 安卓手机数据擦除工具 Windows版本",
                     "OS":"Windows",
                     "SiteUrl":"https://drfone.wondershare.com/android-data-erase.html",
@@ -357,6 +382,7 @@
                 }
                 /// Android Toolkit
                 ,{
+                    "SName":"Android Toolkit",
                     "TName":"原子正版 Dr.Fone Android 安卓工具全套装 Windows版本",
                     "OS":"Windows",
                     "SiteUrl":"https://drfone.wondershare.com/drfone-toolkit.html",
@@ -380,7 +406,8 @@
             _.each(data_product_list, function(ele) {
                 var one_product = _.extend({
                     "VendorID": 'mc8799',
-                    "VendorName":  'WonderShare(万兴)'
+                    "VendorName":  'WonderShare(万兴)',
+                    "SName":""
                 }, ele)
                 want_load_products = _.concat(want_load_products, one_product)
             })

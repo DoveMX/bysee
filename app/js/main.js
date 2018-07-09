@@ -6,6 +6,7 @@ $(document).ready(function() {
                 model: {
                     fields: {
                         "TName": { type: "string" },
+                        "SName": { type: "string" },
                         "OS": { type: "string" },
                         "SiteUrl": { type: "string" },
                         "VendorPrice": { type: "number" },
@@ -61,6 +62,7 @@ $(document).ready(function() {
             {
                 field: "TName",
                 title: "淘宝商品名称",
+                template: "<strong>#: TName # </strong>",
                 locked: true,
                 lockable: false,
                 format: "{0}",
@@ -174,6 +176,11 @@ $(document).ready(function() {
                 field: "ID",
                 title: "产品ID",
                 width: 84
+            },{
+                field: "SName",
+                title: "关联名称",
+                template: '<sub style="font-style: oblique; color: gray;">#: SName # </sub>',
+                width: 200                
             }
         ]
     });

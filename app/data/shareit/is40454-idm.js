@@ -24,7 +24,8 @@
     $.each(dataList.products, function(index, ele){
         var one_product = _.extend({
             "VendorID": 'is40454',
-            "VendorName":  'IDM'
+            "VendorName":  'IDM',
+            "SName":""
         }, ele)
         window["SellerData"].push(one_product);
     });

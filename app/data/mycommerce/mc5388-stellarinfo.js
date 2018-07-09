@@ -101,7 +101,8 @@
     $.each(dataList.products, function(index, ele){
         var one_product = _.extend({
             "VendorID": 'mc5388',
-            "VendorName":  'Stellar Data Recovery Inc'
+            "VendorName":  'Stellar Data Recovery Inc',
+            "SName":""
         }, ele)
         window["SellerData"].push(one_product);
     });
