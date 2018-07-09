@@ -74,7 +74,7 @@ $(document).ready(function() {
                 lockable: false,
                 format: "{0}",
                 sortable: true,
-                width: 560,
+                width: 460,
                 aggregates: ["count"], 
                 footerTemplate: "总计: #=count#", 
                 groupFooterTemplate: "数量: #=count#"
@@ -92,7 +92,8 @@ $(document).ready(function() {
                 width: 72
             },{
                 command:[{ 
-                    text: "计算利润",
+                    text: "利润",
+                    iconClass: "k-icon k-i-paint",
                     click: function(e){
                         e.preventDefault();
                         var tr = $(e.target).closest("tr");
@@ -112,7 +113,8 @@ $(document).ready(function() {
             },{
                 command:[{ 
                     name: "TaobaoUrl",
-                    text: "打开淘宝",
+                    text: "淘宝",
+                    iconClass: "k-icon k-i-hyperlink-open-sm",
                     visible: function(dataItem) {
                         return _.trim(dataItem.TaobaoUrl || "").length > 0
                     },
@@ -133,8 +135,8 @@ $(document).ready(function() {
                 lockable: false
             },{
                 command:[{ 
-                    text: "复制试用下载",
-                    iconClass: "k-icon k-i-copy",
+                    text: "试用",
+                    iconClass: "k-icon k-i-unlink-vertical",
                     visible: function(dataItem) {
                         return _.trim(dataItem.dlID || "").length > 0
                     },
@@ -150,8 +152,8 @@ $(document).ready(function() {
                         window.alert("试用下载地址已经拷贝成功! " + url);
                     } 
                 }],
-                title: "试用下载链接",
-                width: 128,
+                title: "试用下载",
+                width: 80,
                 locked: true,
                 lockable: false
             },{
@@ -162,8 +164,8 @@ $(document).ready(function() {
                 lockable: false
             },  {
                 command:[{ 
-                    text: "打开官网",
-                    iconClass: "k-icon k-i-copy",
+                    text: "官网",
+                    iconClass: "k-icon k-i-hyperlink-open-sm",
                     click: function(e){
                         e.preventDefault();
                         var tr = $(e.target).closest("tr");
@@ -179,7 +181,7 @@ $(document).ready(function() {
                     } 
                 }],
                 title: "官网",
-                width: 120
+                width: 80
             },{
                 field: "ID",
                 title: "产品ID",
