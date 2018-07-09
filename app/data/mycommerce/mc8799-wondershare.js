@@ -145,7 +145,7 @@
                     "dlID":"dl-ws-dr.fone-ios-switch-win",
                     "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_switch_setup_full.exe",
                     "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-409?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
-                    "TaobaoUrl":""
+                    "TaobaoUrl":"https://item.taobao.com/item.htm?id=573375590774"
                 }
                 ,{
                     "SName":"iOS Switch Tool",
