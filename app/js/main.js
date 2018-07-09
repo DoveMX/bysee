@@ -19,7 +19,14 @@ $(document).ready(function() {
                 }
             },
             sort: { field: "TName", dir: "asc" },
-            group: [{field: "VendorName"}],
+            group: [
+                {field: "VendorName", aggregates: [
+                    { field: "TName", aggregate: "count" }
+                ]}
+            ],
+            aggregate: [
+                { field: "TName", aggregate: "count" }
+            ],
             pageSize: 500
         },
         width:$(window).width(),
@@ -62,12 +69,15 @@ $(document).ready(function() {
             {
                 field: "TName",
                 title: "淘宝商品名称",
-                template: "<strong>#: TName # </strong>",
+                // template: "<strong>#: TName # </strong>",
                 locked: true,
                 lockable: false,
                 format: "{0}",
                 sortable: true,
-                width: 560
+                width: 560,
+                aggregates: ["count"], 
+                footerTemplate: "总计: #=count#", 
+                groupFooterTemplate: "数量: #=count#"
             }, {
                 field: "VendorPrice",
                 title: "官网价",
