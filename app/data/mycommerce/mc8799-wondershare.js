@@ -33,7 +33,7 @@
             ],
 
             "Dr.fone-full": [
-                    /// iOS And Android Toolkit   
+                /// iOS And Android Toolkit   
             ],
 
             "Dr.fone for iOS": [
@@ -66,7 +66,7 @@
                 ,{
                     "TName":"原子正版 Dr.fone iOS数据恢复(iPhone手机或iPad) Windows版本",
                     "OS":"Windows",
-                    "SiteUrl":"https://drfone.wondershare.com/mac-iphone-data-recovery.html",
+                    "SiteUrl":"https://drfone.wondershare.com/iphone-data-recovery.html",
                     "VendorPrice":69.95,
                     "ID":"8799-421",
                     "Commission": 50,
@@ -78,7 +78,7 @@
                 ,{
                     "TName":"原子正版 Dr.fone iOS数据恢复(iPhone手机或iPad) Mac版本",
                     "OS": "Mac",
-                    "SiteUrl":"https://drfone.wondershare.com/mac-iphone-data-recovery.html",
+                    "SiteUrl":"https://drfone.wondershare.com/iphone-data-recovery.html",
                     "VendorPrice":79.95,
                     "ID":"8799-426",
                     "Commission": 50,
@@ -88,7 +88,55 @@
                     "TaobaoUrl":""
                 }
                 /// iOS Transfer Tool
+                ,{
+                    "TName":"原子正版 Dr.fone iOS数据传输(iPhone手机或iPad) Windows版本",
+                    "OS":"Windows",
+                    "SiteUrl":"https://drfone.wondershare.com/ios-transfer.html",
+                    "VendorPrice":69.95,
+                    "ID":"8799-422",
+                    "Commission": 50,
+                    "dlID":"dl-ws-dr.fone-ios-transfer-win",
+                    "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_transfer_setup_full.exe",
+                    "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-422?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
+                    "TaobaoUrl":""
+                }
+                ,{
+                    "TName":"原子正版 Dr.fone iOS数据传输(iPhone手机或iPad) Mac版本",
+                    "OS": "Mac",
+                    "SiteUrl":"https://drfone.wondershare.com/ios-transfer.html",
+                    "VendorPrice":79.95,
+                    "ID":"8799-423",
+                    "Commission": 50,
+                    "dlID":"dl-ws-dr.fone-ios-transfer-mac",
+                    "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_transfer_full.dmg",
+                    "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-423?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
+                    "TaobaoUrl":""
+                }
                 /// iOS Switch Tool
+                ,{
+                    "TName":"原子正版 Dr.fone iOS设备迁移(iPhone手机或iPad) Windows版本",
+                    "OS":"Windows",
+                    "SiteUrl":"https://drfone.wondershare.com/phone-switch.html",
+                    "VendorPrice":69.95,
+                    "ID":"8799-409",
+                    "Commission": 50,
+                    "dlID":"dl-ws-dr.fone-ios-switch-win",
+                    "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_switch_setup_full.exe",
+                    "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-409?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
+                    "TaobaoUrl":""
+                }
+                ,{
+                    "TName":"原子正版 Dr.fone iOS设备迁移(iPhone手机或iPad) Mac版本",
+                    "OS": "Mac",
+                    "SiteUrl":"https://drfone.wondershare.com/phone-switch.html",
+                    "VendorPrice":79.95,
+                    "ID":"8799-416",
+                    "Commission": 50,
+                    "dlID":"dl-ws-dr.fone-ios-switch-mac",
+                    "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_switch_full.dmg",
+                    "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-416?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
+                    "TaobaoUrl":""
+                }
                 /// iOS Erase Tool
                 ,{
                     "TName":"原子正版 Dr.Fone iOS数据擦除(iPhone手机或iPad) Windows版本",
@@ -115,11 +163,35 @@
                     "TaobaoUrl":"https://item.taobao.com/item.htm?id=564116401117"
                 }
                 /// iOS Backup and Restore Tool
+                ,{
+                    "TName":"原子正版 Dr.fone iOS备份恢复(iPhone手机或iPad) Windows版本",
+                    "OS":"Windows",
+                    "SiteUrl":"https://drfone.wondershare.com/ios-data-backup-and-restore.html",
+                    "VendorPrice":29.95,
+                    "ID":"8799-424",
+                    "Commission": 50,
+                    "dlID":"dl-ws-dr.fone-ios-backup-and-restore-win",
+                    "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_backup_setup_full.exe",
+                    "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-424?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
+                    "TaobaoUrl":""
+                }
+                ,{
+                    "TName":"原子正版 Dr.fone iOS备份恢复(iPhone手机或iPad) Mac版本",
+                    "OS": "Mac",
+                    "SiteUrl":"https://drfone.wondershare.com/ios-data-backup-and-restore.html",
+                    "VendorPrice":39.95,
+                    "ID":"8799-418",
+                    "Commission": 50,
+                    "dlID":"dl-ws-dr.fone-ios-backup-and-restore-mac",
+                    "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_backup_full.dmg",
+                    "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-418?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
+                    "TaobaoUrl":""
+                }
                 /// iOS Repair Tool
                 ,{
                     "TName":"原子正版 Dr.Fone iOS系统修复(iPhone手机或iPad) Windows版本",
                     "OS":"Windows",
-                    "SiteUrl":"https://drfone.wondershare.com/zh/ios-system-recovery.html",
+                    "SiteUrl":"https://drfone.wondershare.com/ios-system-recovery.html",
                     "VendorPrice":69.95,
                     "ID":"8799-410",
                     "Commission": 50,
@@ -131,7 +203,7 @@
                 ,{
                     "TName":"原子正版 Dr.Fone iOS系统修复(iPhone手机或iPad) Mac版本",
                     "OS": "Mac",
-                    "SiteUrl":"https://drfone.wondershare.com/zh/ios-system-recovery.html",
+                    "SiteUrl":"https://drfone.wondershare.com/ios-system-recovery.html",
                     "VendorPrice":79.95,
                     "ID":"8799-417",
                     "Commission": 50,
@@ -145,7 +217,7 @@
                 ,{
                     "TName":"原子正版 Dr.fone iOS工具全套装(iPhone手机或iPad) Windows版本",
                     "OS":"Windows",
-                    "SiteUrl":"https://drfone.wondershare.com/mac-iphone-data-recovery.html",
+                    "SiteUrl":"https://drfone.wondershare.com/drfone-toolkit.html",
                     "VendorPrice":99.95,
                     "ID":"8799-405",
                     "Commission": 50,
@@ -157,7 +229,7 @@
                 ,{
                     "TName":"原子正版 Dr.fone iOS工具全套装(iPhone手机或iPad) Mac版本",
                     "OS": "Mac",
-                    "SiteUrl":"https://drfone.wondershare.com/mac-iphone-data-recovery.html",
+                    "SiteUrl":"https://drfone.wondershare.com/drfone-toolkit.html",
                     "VendorPrice":139.95,
                     "ID":"8799-402",
                     "Commission": 50,
@@ -199,22 +271,82 @@
                     "TName":"原子正版 Dr.Fone Android 安卓手机数据恢复工具 Mac版本",
                     "OS": "Mac",
                     "SiteUrl":"https://drfone.wondershare.com/android-data-recovery.html",
-                    "VendorPrice":49.95,
-                    "ID":"8799-407",
+                    "VendorPrice":59.95,
+                    "ID":"8799-414",
                     "Commission": 50,
                     "dlID":"dl-ws-dr.fone-toolkit-android-data-recovery-win",
                     "DownloadUrl":"https://seesrc.com/dm/wondershare/dr.fone-recover/drfone_recover_setup_full3366.exe",
-                    "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-407?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
+                    "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-414?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
                     "TaobaoUrl":""
                 }
                 /// Android Transfer Tool
+                ,{
+                    "TName":"原子正版 Dr.Fone Android 安卓手机数据传输工具 Windows版本",
+                    "OS":"Windows",
+                    "SiteUrl":"https://drfone.wondershare.com/android-transfer.html",
+                    "VendorPrice":39.95,
+                    "ID":"8799-408",
+                    "Commission": 50,
+                    "dlID":"dl-ws-dr.fone-android-transfer-win",
+                    "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_transfer_setup_full.exe",
+                    "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-408?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
+                    "TaobaoUrl":"https://item.taobao.com/item.htm?id=560537566711"
+                }
+                ,{
+                    "TName":"原子正版 Dr.Fone Android 安卓手机数据传输工具 Mac版本",
+                    "OS": "Mac",
+                    "SiteUrl":"https://drfone.wondershare.com/android-transfer.html",
+                    "VendorPrice":49.95,
+                    "ID":"8799-415",
+                    "Commission": 50,
+                    "dlID":"dl-ws-dr.fone-android-transfer-mac",
+                    "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_transfer_full.dmg",
+                    "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-415?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
+                    "TaobaoUrl":""
+                }
                 /// Android Switch Tool
+                ,{
+                    "TName":"原子正版 Dr.Fone Android 安卓手机设备迁移工具 Windows版本",
+                    "OS":"Windows",
+                    "SiteUrl":"https://drfone.wondershare.com/phone-switch.html",
+                    "VendorPrice":39.95,
+                    "ID":"8799-409",
+                    "Commission": 50,
+                    "dlID":"dl-ws-dr.fone-android-transfer-win",
+                    "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_switch_setup_full.exe",
+                    "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-409?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
+                    "TaobaoUrl":"https://item.taobao.com/item.htm?id=560537566711"
+                }
+                ,{
+                    "TName":"原子正版 Dr.Fone Android 安卓手机设备迁移工具 Mac版本",
+                    "OS": "Mac",
+                    "SiteUrl":"https://drfone.wondershare.com/phone-switch.html",
+                    "VendorPrice":39.95,
+                    "ID":"8799-416",
+                    "Commission": 50,
+                    "dlID":"dl-ws-dr.fone-android-transfer-mac",
+                    "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_switch_full.dmg",
+                    "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-416?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
+                    "TaobaoUrl":""
+                }
                 /// Android Backup and Restore Tool
+                ,{
+                    "TName":"原子正版 Dr.Fone Android 安卓手机备份还原工具 Windows版本",
+                    "OS":"Windows",
+                    "SiteUrl":"https://drfone.wondershare.com/android-data-backup-and-restore.html",
+                    "VendorPrice":19.95,
+                    "ID":"8799-406",
+                    "Commission": 50,
+                    "dlID":"dl-ws-dr.fone-android-backup-and-restore-win",
+                    "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_backup_setup_full.exe",
+                    "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-406?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
+                    "TaobaoUrl":""
+                }
                 /// Android Erase Tool
                 ,{
                     "TName":"原子正版 Dr.Fone Android 安卓手机数据擦除工具 Windows版本",
                     "OS":"Windows",
-                    "SiteUrl":"https://drfone.wondershare.com/android-data-eraser.html",
+                    "SiteUrl":"https://drfone.wondershare.com/android-data-erase.html",
                     "VendorPrice":19.95,
                     "ID":"8799-411",
                     "Commission": 50,
@@ -227,7 +359,7 @@
                 ,{
                     "TName":"原子正版 Dr.Fone Android 安卓工具全套装 Windows版本",
                     "OS":"Windows",
-                    "SiteUrl":"https://drfone.wondershare.com/android-data-recovery.html",
+                    "SiteUrl":"https://drfone.wondershare.com/drfone-toolkit.html",
                     "VendorPrice":79.95,
                     "ID":"8799-404",
                     "Commission": 50,

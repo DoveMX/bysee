@@ -32,9 +32,12 @@ $(document).ready(function() {
         allowCopy: true,
         columns: [
             {
-                command:{
+                command:[{
                     text: "购买",
                     iconClass: "k-icon k-i-cart",
+                    visible: function(dataItem) {
+                        return _.trim(dataItem.BuyUrl || "").length > 0
+                    },
                     click: function(e){
                         e.preventDefault();
                         var tr = $(e.target).closest("tr");
@@ -46,7 +49,7 @@ $(document).ready(function() {
                         }
 
                     }
-                },
+                }],
                 attributes: {
                     "class": "btn-buy"
                 },
@@ -63,20 +66,20 @@ $(document).ready(function() {
                 format: "{0}",
                 sortable: true,
                 width: 560
-            },  {
-                field: "Commission",
-                title: "佣金",
-                lockable: false,
-                format: "{0}%",
-                width: 72
             }, {
                 field: "VendorPrice",
                 title: "官网价",
                 locked: false,
                 format: "${0}",
                 width: 80
+            },  {
+                field: "Commission",
+                title: "佣金",
+                lockable: false,
+                format: "{0}%",
+                width: 72
             },{
-                command:{ 
+                command:[{ 
                     text: "计算利润",
                     click: function(e){
                         e.preventDefault();
@@ -90,13 +93,17 @@ $(document).ready(function() {
                                   '利润：' + kendo.toString(Profit, 'n0') + '元 '
                         window.alert(msg);
                     }
-                },
+                }],
                 title: "利润",
                 width: 80,
                 locked: true
             },{
-                command:{ 
+                command:[{ 
+                    name: "TaobaoUrl",
                     text: "打开淘宝",
+                    visible: function(dataItem) {
+                        return _.trim(dataItem.TaobaoUrl || "").length > 0
+                    },
                     click: function(e){
                         e.preventDefault();
                         var tr = $(e.target).closest("tr");
@@ -106,17 +113,19 @@ $(document).ready(function() {
                         } else {
                             window.alert("没有对应的淘宝商品进行绑定！！");
                         }
-                        
                     } 
-                },
+                }],
                 title: "淘宝链接", 
                 width: 80,
                 locked: true,
                 lockable: false
             },{
-                command:{ 
+                command:[{ 
                     text: "复制试用下载",
                     iconClass: "k-icon k-i-copy",
+                    visible: function(dataItem) {
+                        return _.trim(dataItem.dlID || "").length > 0
+                    },
                     click: function(e){
                         e.preventDefault();
                         var tr = $(e.target).closest("tr");
@@ -130,7 +139,7 @@ $(document).ready(function() {
                         window.open(url);
 
                     } 
-                },
+                }],
                 title: "试用下载链接",
                 width: 128,
                 locked: true,
@@ -142,7 +151,7 @@ $(document).ready(function() {
                 locked: true,
                 lockable: false
             },  {
-                command:{ 
+                command:[{ 
                     text: "打开官网",
                     iconClass: "k-icon k-i-copy",
                     click: function(e){
@@ -158,9 +167,13 @@ $(document).ready(function() {
                         window.open(url);
 
                     } 
-                },
+                }],
                 title: "官网",
                 width: 120
+            },{
+                field: "ID",
+                title: "产品ID",
+                width: 84
             }
         ]
     });
