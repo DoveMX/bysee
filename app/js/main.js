@@ -100,8 +100,8 @@ $(document).ready(function() {
                         var data = this.dataItem(tr);
                         var exchange= 7; // 以汇率7.0为边界
 
-                        var taobao_price = (data.VendorPrice * exchange)/10 * 10 + 9;
-                        var Profit = data.VendorPrice * (data.Commission - 5) * exchange / 100.0;
+                        var taobao_price = Math.floor((data.VendorPrice * exchange)/10) * 10 - 1;
+                        var Profit = data.VendorPrice * (data.Commission - 7) * exchange / 100.0;
                         var msg = '淘宝最低售价: ' + kendo.toString(taobao_price, 'n0') + '元 ' +
                                   '利润：' + kendo.toString(Profit, 'n0') + '元 '
                         window.alert(msg);
