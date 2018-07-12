@@ -158,7 +158,7 @@
                     "dlID":"dl-ws-dr.fone-ios-switch-mac",
                     "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_switch_full.dmg",
                     "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-416?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
-                    "TaobaoUrl":""
+                    "TaobaoUrl":"https://item.taobao.com/item.htm?id=573567958809"
                 }
                 /// iOS Erase Tool
                 ,{
