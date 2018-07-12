@@ -98,7 +98,7 @@ $(document).ready(function() {
                         e.preventDefault();
                         var tr = $(e.target).closest("tr");
                         var data = this.dataItem(tr);
-                        var exchange= 7; // 以汇率7.0为边界
+                        var exchange= 7.3; // 当前汇
 
                         var taobao_price = Math.floor((data.VendorPrice * exchange)/10) * 10 - 1;
                         var Profit = data.VendorPrice * (data.Commission - 7) * exchange / 100.0;
