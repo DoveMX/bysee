@@ -15,7 +15,7 @@
                 "dlID":"dl-ais-fidr-win",
                 "DownloadUrl":"https://seesrc.com/dm/aiseesoft/iphone-data-recovery/fonelab.exe",
                 "OrgDownloadUrl":"http://www.aiseesoft.com/downloads/fonelab.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-487?quantity=1&locale=zh_CN&currency=USD&ss_coupon=AISE-KPSQ-ONFF&affiliate_id=624209&affiliate=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-487?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560050536116"
             },
             {
@@ -31,7 +31,7 @@
                 "dlID":"dl-ais-fidr-mac",
                 "DownloadUrl":"https://seesrc.com/dm/aiseesoft/iphone-data-recovery/mac-fonelab.dmg",
                 "OrgDownloadUrl": "http://www.aiseesoft.com/downloads/mac/mac-fonelab.dmg",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-488?quantity=1&locale=zh_CN&currency=USD&ss_coupon=AISE-KPSQ-ONFF&affiliate_id=624209&affiliate=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-488?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560270479333"
             },
             {
@@ -40,14 +40,14 @@
                 "Name":"FoneLab - Android Data Recovery for Windows",
                 "OS":"Windows",
                 "SiteUrl":"http://www.aiseesoft.com/fonelab-for-android/",
-                "VendorPrice":39.95,
-                "sitePrice":39.95,
+                "VendorPrice":49.95,
+                "sitePrice":49.95,
                 "ID":"18294-538",
                 "Commission": 75,
                 "dlID":"dl-ais-fadr-win",
                 "DownloadUrl":"https://seesrc.com/dm/aiseesoft/android-data-recovery/fonelab-for-android.exe",
                 "OrgDownloadUrl":"http://www.aiseesoft.com/downloads/fonelab-for-android.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-538?quantity=1&locale=zh_CN&currency=USD&ss_coupon=AISE-KPSQ-ONFF&affiliate_id=624209&affiliate=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-538?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560316383353"
             },
             {
@@ -56,14 +56,14 @@
                 "Name":"FoneLab - Android Data Recovery for Mac",
                 "OS": "Mac",
                 "SiteUrl":"http://www.aiseesoft.com/fonelab-for-android/",
-                "VendorPrice":39.95,
-                "sitePrice":39.95,
+                "VendorPrice":49.95,
+                "sitePrice":49.95,
                 "ID":"18294-543",
                 "Commission": 75,
                 "dlID":"dl-ais-fadr-mac",
                 "DownloadUrl":"https://seesrc.com/dm/aiseesoft/android-data-recovery/mac-fonelab-for-android.dmg",
                 "OrgDownloadUrl":"http://www.aiseesoft.com/downloads/mac/mac-fonelab-for-android.dmg",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-543?quantity=1&locale=zh_CN&currency=USD&ss_coupon=AISE-KPSQ-ONFF&affiliate_id=624209&affiliate=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-543?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560096264548"
             },
             {
@@ -79,7 +79,7 @@
                 "dlID":"dl-ais-video-converter-ultimate-win",
                 "DownloadUrl":"https://seesrc.com/dm/aiseesoft/video-converter-ultimate/video-converter-ultimate.exe",
                 "OrgDownloadUrl": "http://www.aiseesoft.com/downloads/video-converter-ultimate.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-458?quantity=1&locale=zh_CN&currency=USD&ss_coupon=AISE-KPSQ-ONFF&affiliate_id=624209&affiliate=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-458?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560471035574"
             },
             {
@@ -95,7 +95,7 @@
                 "dlID":"dl-ais-video-converter-ultimate-mac",
                 "DownloadUrl":"https://seesrc.com/dm/aiseesoft/video-converter-ultimate/mac-video-converter-ultimate.dmg",
                 "OrgDownloadUrl": "http://www.aiseesoft.com/downloads/mac/mac-video-converter-ultimate.dmg",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-479?quantity=1&locale=zh_CN&currency=USD&ss_coupon=AISE-KPSQ-ONFF&affiliate_id=624209&affiliate=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-479?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=560249784509"
             }
             // fone-trans-ios-transfer-win
@@ -112,7 +112,7 @@
                 "dlID":"dl-ais-fone-trans-ios-transfer-win",
                 "DownloadUrl":"https://seesrc.com/dm/aiseesoft/fone-trans-ios-transfer/fonetrans.exe",
                 "OrgDownloadUrl": "http://www.aiseesoft.com/downloads/fonetrans.exe",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-498?quantity=1&locale=zh_CN&currency=USD&ss_coupon=AISE-KPSQ-ONFF&affiliate_id=624209&affiliate=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-498?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=564198860085"
             }
             // fone-trans-ios-transfer-mac
@@ -129,7 +129,7 @@
                 "dlID":"dl-ais-fone-trans-ios-transfer-mac",
                 "DownloadUrl":"http://seesrc.com/dm/aiseesoft/fone-trans-ios-transfer/mac-fonetrans.dmg",
                 "OrgDownloadUrl": "http://www.aiseesoft.com/downloads/mac/mac-fonetrans.dmg",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-499?quantity=1&locale=zh_CN&currency=USD&ss_coupon=AISE-KPSQ-ONFF&affiliate_id=624209&affiliate=624209",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-499?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
                 "TaobaoUrl":"https://item.taobao.com/item.htm?id=564368492324"
             }
         ]
