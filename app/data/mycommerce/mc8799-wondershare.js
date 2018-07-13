@@ -131,7 +131,7 @@
                     "dlID":"dl-ws-dr.fone-ios-transfer-mac",
                     "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_transfer_full.dmg",
                     "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-423?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
-                    "TaobaoUrl":""
+                    "TaobaoUrl":"https://item.taobao.com/item.htm?id=573382512934"
                 }
                 /// iOS Switch Tool
                 ,{
