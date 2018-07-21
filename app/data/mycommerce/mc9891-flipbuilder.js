@@ -12,7 +12,7 @@
                 "dlID":"dl-idman-win",
                 "DownloadUrl":"https://seesrc.com/dm/flipbuilder/flip-pdf.zip",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/9891-56?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
-                "TaobaoUrl":"https://item.taobao.com/item.htm?id=5559792217265"
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=559792217265"
             },
             {
                 "TName":"原子正版 Flip PDF翻页电子杂志书籍创建编辑工具 Mac版",
