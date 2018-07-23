@@ -349,7 +349,7 @@
                     "VendorPrice":39.95,
                     "ID":"8799-409",
                     "Commission": 50,
-                    "dlID":"dl-ws-dr.fone-android-transfer-win",
+                    "dlID":"dl-ws-dr.fone-android-switch-win",
                     "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_switch_setup_full.exe",
                     "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-409?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
                     "TaobaoUrl":""
@@ -362,7 +362,7 @@
                     "VendorPrice":39.95,
                     "ID":"8799-416",
                     "Commission": 50,
-                    "dlID":"dl-ws-dr.fone-android-transfer-mac",
+                    "dlID":"dl-ws-dr.fone-android-switch-mac",
                     "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_switch_full.dmg",
                     "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-416?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
                     "TaobaoUrl":""
