@@ -352,7 +352,7 @@
                     "dlID":"dl-ws-dr.fone-android-switch-win",
                     "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_switch_setup_full.exe",
                     "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-409?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
-                    "TaobaoUrl":""
+                    "TaobaoUrl":"https://item.taobao.com/item.htm?id=573989644580"
                 }
                 ,{
                     "SName":"Android Switch Tool",
