@@ -325,7 +325,7 @@
                     "dlID":"dl-ws-dr.fone-android-transfer-win",
                     "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_transfer_setup_full.exe",
                     "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-408?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
-                    "TaobaoUrl":""
+                    "TaobaoUrl":"https://item.taobao.com/item.htm?id=574327345329"
                 }
                 ,{
                     "SName":"Android Transfer Tool",
