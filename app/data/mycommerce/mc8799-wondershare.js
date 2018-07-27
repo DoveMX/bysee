@@ -338,7 +338,7 @@
                     "dlID":"dl-ws-dr.fone-android-transfer-mac",
                     "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_transfer_full.dmg",
                     "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-415?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
-                    "TaobaoUrl":""
+                    "TaobaoUrl":"https://item.taobao.com/item.htm?id=574180364066"
                 }
                 /// Android Switch Tool
                 ,{
