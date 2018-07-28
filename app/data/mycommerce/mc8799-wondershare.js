@@ -244,7 +244,7 @@
                 /// iOS Restore Social App Tool
                 ,{
                     "SName":"iOS Restore Social App Tool",
-                    "TName":"原子正版 Dr.Fone iOS 社交App数据恢复工具 Windows版本",
+                    "TName":"原子正版 Dr.Fone iOS 微信社交类App数据恢复工具 Windows版本",
                     "OS": "Windows",
                     "SiteUrl":"https://drfone.wondershare.com/whatsapp-wechat-kik-line-backup-and-restore.html",
                     "VendorPrice":29.95,
