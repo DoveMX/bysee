@@ -45,7 +45,7 @@
                     "ID":"8799-403",
                     "Commission": 50,
                     "dlID":"dl-ws-dr.fone-full-toolkit-win",
-                    "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_setup_full.exe",
+                    "DownloadUrl":"https://techidaily.com/downloads/wondershare/drfone_setup_full.exe",
                     "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-403?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
                     "TaobaoUrl":""
                 }
@@ -62,7 +62,7 @@
                     "ID":"8799-435",
                     "Commission": 50,
                     "dlID":"dl-ws-dr.fone-ios-unlock-win",
-                    "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_unlock_setup_full.exe",
+                    "DownloadUrl":"https://techidaily.com/downloads/wondershare/drfone_unlock_setup_full.exe",
                     "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-435?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
                     "TaobaoUrl":"https://item.taobao.com/item.htm?id=572943317399"
                 }
@@ -75,7 +75,7 @@
                     "ID":"8799-420",
                     "Commission": 50,
                     "dlID":"dl-ws-dr.fone-ios-unlock-mac",
-                    "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_unlock_full.dmg",
+                    "DownloadUrl":"https://techidaily.com/downloads/wondershare/drfone_unlock_full.dmg",
                     "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-420?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
                     "TaobaoUrl":"https://item.taobao.com/item.htm?id=563878976795"
                 }
@@ -89,7 +89,7 @@
                     "ID":"8799-421",
                     "Commission": 50,
                     "dlID":"dl-ws-dr.fone-ios-recover-win",
-                    "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_recover_setup_full.exe",
+                    "DownloadUrl":"https://techidaily.com/downloads/wondershare/drfone_recover_setup_full.exe",
                     "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-421?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
                     "TaobaoUrl":"https://item.taobao.com/item.htm?id=560481734544"
                 }
@@ -102,7 +102,7 @@
                     "ID":"8799-426",
                     "Commission": 50,
                     "dlID":"dl-ws-dr.fone-ios-recover-mac",
-                    "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_recover_full.dmg",
+                    "DownloadUrl":"https://techidaily.com/downloads/wondershare/drfone_recover_full.dmg",
                     "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-426?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
                     "TaobaoUrl":"https://item.taobao.com/item.htm?id=573412186680"
                 }
@@ -116,7 +116,7 @@
                     "ID":"8799-422",
                     "Commission": 50,
                     "dlID":"dl-ws-dr.fone-ios-transfer-win",
-                    "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_transfer_setup_full.exe",
+                    "DownloadUrl":"https://techidaily.com/downloads/wondershare/drfone_transfer_setup_full.exe",
                     "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-422?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
                     "TaobaoUrl":"https://item.taobao.com/item.htm?id=573315796481"
                 }
@@ -129,7 +129,7 @@
                     "ID":"8799-423",
                     "Commission": 50,
                     "dlID":"dl-ws-dr.fone-ios-transfer-mac",
-                    "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_transfer_full.dmg",
+                    "DownloadUrl":"https://techidaily.com/downloads/wondershare/drfone_transfer_full.dmg",
                     "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-423?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
                     "TaobaoUrl":"https://item.taobao.com/item.htm?id=573382512934"
                 }
@@ -143,7 +143,7 @@
                     "ID":"8799-409",
                     "Commission": 50,
                     "dlID":"dl-ws-dr.fone-ios-switch-win",
-                    "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_switch_setup_full.exe",
+                    "DownloadUrl":"https://techidaily.com/downloads/wondershare/drfone_switch_setup_full.exe",
                     "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-409?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
                     "TaobaoUrl":"https://item.taobao.com/item.htm?id=573375590774"
                 }
@@ -156,7 +156,7 @@
                     "ID":"8799-416",
                     "Commission": 50,
                     "dlID":"dl-ws-dr.fone-ios-switch-mac",
-                    "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_switch_full.dmg",
+                    "DownloadUrl":"https://techidaily.com/downloads/wondershare/drfone_switch_full.dmg",
                     "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-416?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
                     "TaobaoUrl":"https://item.taobao.com/item.htm?id=573567958809"
                 }
@@ -197,7 +197,7 @@
                     "ID":"8799-424",
                     "Commission": 50,
                     "dlID":"dl-ws-dr.fone-ios-backup-and-restore-win",
-                    "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_backup_setup_full.exe",
+                    "DownloadUrl":"https://techidaily.com/downloads/wondershare/drfone_backup_setup_full.exe",
                     "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-424?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
                     "TaobaoUrl":"https://item.taobao.com/item.htm?id=573898095867"
                 }
@@ -210,7 +210,7 @@
                     "ID":"8799-418",
                     "Commission": 50,
                     "dlID":"dl-ws-dr.fone-ios-backup-and-restore-mac",
-                    "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_backup_full.dmg",
+                    "DownloadUrl":"https://techidaily.com/downloads/wondershare/drfone_backup_full.dmg",
                     "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-418?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
                     "TaobaoUrl":"https://item.taobao.com/item.htm?id=573547564838"
                 }
@@ -242,6 +242,19 @@
                     "TaobaoUrl":"https://item.taobao.com/item.htm?id=562761671796"
                 }
                 /// iOS Restore Social App Tool
+                ,{
+                    "SName":"iOS Restore Social App Tool",
+                    "TName":"原子正版 Dr.Fone iOS 社交App数据恢复工具 Windows版本",
+                    "OS": "Mac",
+                    "SiteUrl":"https://drfone.wondershare.com/whatsapp-wechat-kik-line-backup-and-restore.html",
+                    "VendorPrice":29.95,
+                    "ID":"8799-436",
+                    "Commission": 50,
+                    "dlID":"dl-ws-dr.fone-ios-restore-social-app-tool-win",
+                    "DownloadUrl":"https://techidaily.com/downloads/wondershare/drfone_restoreapp_setup_full.exe",
+                    "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-436?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
+                    "TaobaoUrl":""
+                }
                 /// iOS Toolkit
                 ,{
                     "SName":"iOS Toolkit",
@@ -252,7 +265,7 @@
                     "ID":"8799-405",
                     "Commission": 50,
                     "dlID":"dl-ws-dr.fone-ios-toolkit-win",
-                    "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_setup_full.exe",
+                    "DownloadUrl":"https://techidaily.com/downloads/wondershare/drfone_setup_full.exe",
                     "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-405?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
                     "TaobaoUrl":"https://item.taobao.com/item.htm?id=560419993067"
                 }
@@ -265,7 +278,7 @@
                     "ID":"8799-402",
                     "Commission": 50,
                     "dlID":"dl-ws-dr.fone-ios-toolkit-mac",
-                    "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_full.dmg",
+                    "DownloadUrl":"https://techidaily.com/downloads/wondershare/drfone_full.dmg",
                     "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-402?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
                     "TaobaoUrl":"https://item.taobao.com/item.htm?id=573992447675"
                 }
@@ -323,7 +336,7 @@
                     "ID":"8799-408",
                     "Commission": 50,
                     "dlID":"dl-ws-dr.fone-android-transfer-win",
-                    "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_transfer_setup_full.exe",
+                    "DownloadUrl":"https://techidaily.com/downloads/wondershare/drfone_transfer_setup_full.exe",
                     "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-408?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
                     "TaobaoUrl":"https://item.taobao.com/item.htm?id=574327345329"
                 }
@@ -336,7 +349,7 @@
                     "ID":"8799-415",
                     "Commission": 50,
                     "dlID":"dl-ws-dr.fone-android-transfer-mac",
-                    "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_transfer_full.dmg",
+                    "DownloadUrl":"https://techidaily.com/downloads/wondershare/drfone_transfer_full.dmg",
                     "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-415?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
                     "TaobaoUrl":"https://item.taobao.com/item.htm?id=574180364066"
                 }
@@ -350,7 +363,7 @@
                     "ID":"8799-409",
                     "Commission": 50,
                     "dlID":"dl-ws-dr.fone-android-switch-win",
-                    "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_switch_setup_full.exe",
+                    "DownloadUrl":"https://techidaily.com/downloads/wondershare/drfone_switch_setup_full.exe",
                     "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-409?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
                     "TaobaoUrl":"https://item.taobao.com/item.htm?id=573989644580"
                 }
@@ -363,7 +376,7 @@
                     "ID":"8799-416",
                     "Commission": 50,
                     "dlID":"dl-ws-dr.fone-android-switch-mac",
-                    "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_switch_full.dmg",
+                    "DownloadUrl":"https://techidaily.com/downloads/wondershare/drfone_switch_full.dmg",
                     "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-416?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
                     "TaobaoUrl":"https://item.taobao.com/item.htm?id=574251670039"
                 }
@@ -377,7 +390,7 @@
                     "ID":"8799-406",
                     "Commission": 50,
                     "dlID":"dl-ws-dr.fone-android-backup-and-restore-win",
-                    "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_backup_setup_full.exe",
+                    "DownloadUrl":"https://techidaily.com/downloads/wondershare/drfone_backup_setup_full.exe",
                     "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-406?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
                     "TaobaoUrl":"https://item.taobao.com/item.htm?id=573913692250"
                 }
@@ -405,7 +418,7 @@
                     "ID":"8799-404",
                     "Commission": 50,
                     "dlID":"dl-ws-dr.fone-android-toolkit-win",
-                    "DownloadUrl":"https://romanysoft.com/files/wondershare/drfone_setup_full.exe",
+                    "DownloadUrl":"https://techidaily.com/downloads/wondershare/drfone_setup_full.exe",
                     "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/8799-404?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
                     "TaobaoUrl":"https://item.taobao.com/item.htm?id=560381232686"
                 }
