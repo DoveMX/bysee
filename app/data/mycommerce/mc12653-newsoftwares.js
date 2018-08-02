@@ -5,6 +5,7 @@
             {
                 "TName":"原子正版 FolderLock 目录加密工具 Windows版",
                 "OS":"Windows",
+                "Category": "安全加密",
                 "SiteUrl":"http://www.newsoftwares.net/folderlock",
                 "VendorPrice":39.95,
                 "ID":"12653-1",
@@ -18,11 +19,14 @@
     };
 
     $.each(dataList.products, function(index, ele){
-        var one_product = _.extend({
-            "VendorID": 'mc12653',
-            "VendorName":  'newsoftwares',
-            "SName":""
-        }, ele)
-        window["SellerData"].push(one_product);
+        if (_.isPlainObject(ele) && _.keys(ele).length > 0) {
+            var one_product = _.extend({
+                "VendorID": 'mc12653',
+                "VendorName":  'newsoftwares',
+                "SName":""
+            }, ele)
+            window["SellerData"].push(one_product);
+        }
+
     });
 })();

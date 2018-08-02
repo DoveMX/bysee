@@ -5,6 +5,7 @@
             {
                 "TName":"原子正版 Flip PDF翻页电子杂志书籍创建编辑工具 Windows版",
                 "OS":"Windows",
+                "Category": "PDF专业工具",
                 "SiteUrl":"http://www.flipbuilder.com/flip-pdf/",
                 "VendorPrice":99,
                 "ID":"9891-56",
@@ -17,6 +18,7 @@
             {
                 "TName":"原子正版 Flip PDF翻页电子杂志书籍创建编辑工具 Mac版",
                 "OS": "Mac",
+                "Category": "PDF专业工具",
                 "SiteUrl":"http://www.flipbuilder.com/flip-pdf/",
                 "VendorPrice":99,
                 "ID":"9891-174",
@@ -30,11 +32,14 @@
     };
 
     $.each(dataList.products, function(index, ele){
-        var one_product = _.extend({
-            "VendorID": 'mc9891',
-            "VendorName":  'flipbuilder',
-            "SName":""
-        }, ele)
-        window["SellerData"].push(one_product);
+        if (_.isPlainObject(ele) && _.keys(ele).length > 0) {
+            var one_product = _.extend({
+                "VendorID": 'mc9891',
+                "VendorName":  'flipbuilder',
+                "SName":""
+            }, ele)
+            window["SellerData"].push(one_product);
+        }
+
     });
 })();

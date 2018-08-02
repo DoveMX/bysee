@@ -5,6 +5,7 @@
             {
                 "TName":"原子正版 AutoDWG DWG DXF Converter 2018 转换软件工具 标准版",
                 "OS":"Windows",
+                "Category": "AutoCAD工具",
                 "SiteUrl":"http://www.autodwg.com/dwg_dxf_converter/",
                 "VendorPrice":78,
                 "ID":"12005-6",
@@ -17,6 +18,7 @@
             {
                 "TName":"原子正版 AutoDWG DWG DXF Converter 2018 转换软件工具 Pro版",
                 "OS":"Windows",
+                "Category": "AutoCAD工具",
                 "SiteUrl":"http://www.autodwg.com/dwg_dxf_converter/",
                 "VendorPrice":149,
                 "ID":"12005-29",
@@ -30,11 +32,14 @@
     };
 
     $.each(dataList.products, function(index, ele){
-        var one_product = _.extend({
-            "VendorID": 'mc12005',
-            "VendorName":  'autodwg',
-            "SName":""
-        }, ele)
-        window["SellerData"].push(one_product);
+        if (_.isPlainObject(ele) && _.keys(ele).length > 0) {
+            var one_product = _.extend({
+                "VendorID": 'mc12005',
+                "VendorName":  'autodwg',
+                "SName":""
+            }, ele)
+            window["SellerData"].push(one_product);
+        }
+
     });
 })();

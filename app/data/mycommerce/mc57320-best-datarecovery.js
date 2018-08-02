@@ -4,12 +4,10 @@
         "products":[
             {
                 "TName":"Green SD Card Data Recovery Pro SD存储卡恢复 Win",
-                "Pid":"mc5-BestDataRecovery-7320-green-sd-card-data-recovery-pro-win",
-                "Name":"Green SD Card Data Recovery Pro for Win",
                 "OS":"Windows",
+                "Category": "修复恢复",
                 "SiteUrl":"http://best-datarecovery.com/sd-card-data-recovery-pro/",
                 "VendorPrice":39.99,
-                "sitePrice":39.99,
                 "ID":"57320-10",
                 "Commission": 70,
                 "dlID":"dl-green-sd-card-data-recovery-pro-win",
@@ -20,12 +18,10 @@
             },
             {
                 "TName":"Green Digital Photo Recovery Pro 音视频照片恢复 Win",
-                "Pid":"mc5-BestDataRecovery-7320-green-digital-photo-recovery-pro-win",
-                "Name":"Green Digital Photo Recovery Pro for Win",
                 "OS":"Windows",
+                "Category": "修复恢复",
                 "SiteUrl":"http://best-datarecovery.com/digital-photo-recovery-pro/",
                 "VendorPrice":39.99,
-                "sitePrice":39.99,
                 "ID":"57320-2",
                 "Commission": 70,
                 "dlID":"dl-green-digital-photo-recovery-pro-win",
@@ -36,12 +32,10 @@
             },
             {
                 "TName":"Green Hard Drive Data Recovery Pro 硬盘数据恢复 Win",
-                "Pid":"mc5-BestDataRecovery-7320-green-hard-drive-data-recovery-pro",
-                "Name":"Green Hard Drive Data Recovery Pro for Win",
                 "OS":"Windows",
+                "Category": "修复恢复",
                 "SiteUrl":"http://best-datarecovery.com/hard-drive-data-recovery-pro/",
                 "VendorPrice":39.99,
-                "sitePrice":39.99,
                 "ID":"57320-3",
                 "Commission": 70,
                 "dlID":"dl-green-hard-drive-data-recovery-pro-win",
@@ -54,11 +48,14 @@
     };
 
     $.each(dataList.products, function(index, ele){
-        var one_product = _.extend({
-            "VendorID": 'mc57320',
-            "VendorName":  'Best-datarecovery',
-            "SName":""
-        }, ele)
-        window["SellerData"].push(one_product);
+        if (_.isPlainObject(ele) && _.keys(ele).length > 0) {
+            var one_product = _.extend({
+                "VendorID": 'mc57320',
+                "VendorName":  'Best-datarecovery',
+                "SName":""
+            }, ele)
+            window["SellerData"].push(one_product);
+        }
+
     });
 })();

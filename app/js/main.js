@@ -8,6 +8,7 @@ $(document).ready(function() {
                         "TName": { type: "string" },
                         "SName": { type: "string" },
                         "OS": { type: "string" },
+                        "Category": { type: "string" },
                         "SiteUrl": { type: "string" },
                         "VendorPrice": { type: "number" },
                         "Commission": { type: "number" },
@@ -162,6 +163,12 @@ $(document).ready(function() {
                 width: 84,
                 locked: true,
                 lockable: false
+            },{
+                field: "Category",
+                title: "类别",
+                width: 84,
+                locked: true,
+                lockable: false
             },  {
                 command:[{ 
                     text: "官网",
@@ -188,7 +195,7 @@ $(document).ready(function() {
                 width: 84
             },{
                 field: "SName",
-                title: "关联名称",
+                title: "系列名称",
                 template: '<span style="font-style: oblique; color: gray;">#: SName # </span>',
                 width: 200                
             }

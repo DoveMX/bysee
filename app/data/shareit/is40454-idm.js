@@ -4,9 +4,8 @@
         "products":[
             {
                 "TName":"Internet Download Manager 国外优秀的下载工具",
-                "Pid":"is4-0454-idm",
-                "Name":"Internet Download Manager",
                 "OS":"Windows",
+                "Category": "网络工具",
                 "SiteUrl":"http://www.internetdownloadmanager.com/",
                 "VendorPrice":24.95,
                 "sitePrice":24.95,
@@ -22,11 +21,13 @@
     };
 
     $.each(dataList.products, function(index, ele){
-        var one_product = _.extend({
-            "VendorID": 'is40454',
-            "VendorName":  'IDM',
-            "SName":""
-        }, ele)
-        window["SellerData"].push(one_product);
+        if (_.isPlainObject(ele) && _.keys(ele).length > 0) {
+            var one_product = _.extend({
+                "VendorID": 'is40454',
+                "VendorName":  'IDM',
+                "SName":""
+            }, ele)
+            window["SellerData"].push(one_product);
+        }
     });
 })();

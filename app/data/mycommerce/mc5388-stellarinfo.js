@@ -16,6 +16,7 @@
             {
                 "TName":"原子正版 Stellar Phoenix Windows Data Recovery 数据恢复工具",
                 "OS":"Windows",
+                "Category": "修复恢复",
                 "SiteUrl":"https://www.stellarinfo.com/windows-data-recovery-professional.php",
                 "VendorPrice":99,
                 "ID":"5388-52",
@@ -31,6 +32,7 @@
             {
                 "TName":"原子正版 Stellar Phoenix Mac Data Recovery 数据恢复工具",
                 "OS": "Mac",
+                "Category": "修复恢复",
                 "SiteUrl":"https://www.stellarinfo.com/data-recovery-mac.php",
                 "VendorPrice":99,
                 "ID":"5388-29",
@@ -45,6 +47,7 @@
             {
                 "TName":"原子正版 Stellar Phoenix Video Repair Tool 视频恢复工具 Windows版本",
                 "OS":"Windows",
+                "Category": "修复恢复",
                 "SiteUrl":"https://www.stellarinfo.com/disk-recovery/video-repair.php",
                 "VendorPrice":69.99,
                 "ID":"5388-139",
@@ -57,6 +60,7 @@
             {
                 "TName":"原子正版 Stellar Phoenix Video Repair Tool 视频恢复工具 Mac版本",
                 "OS": "Mac",
+                "Category": "修复恢复",
                 "SiteUrl":"https://www.stellarinfo.com/disk-recovery/video-repair.php",
                 "VendorPrice":69.99,
                 "ID":"5388-112",
@@ -71,6 +75,7 @@
             {
                 "TName":"原子正版 Stellar Phoenix Photo Recovery 相片视频音频恢复工具 Windows版本",
                 "OS":"Windows",
+                "Category": "修复恢复",
                 "SiteUrl":"https://www.stellarinfo.com/digital-media-recovery.php",
                 "VendorPrice":59.99,
                 "ID":"5388-137",
@@ -83,6 +88,7 @@
             {
                 "TName":"原子正版 Stellar Phoenix Photo Recovery 相片视频音频恢复工具 Mac版本",
                 "OS": "Mac",
+                "Category": "修复恢复",
                 "SiteUrl":"https://www.stellarinfo.com/digital-media-recovery.php",
                 "VendorPrice":59.99,
                 "ID":"5388-138",
@@ -99,11 +105,13 @@
     };
 
     $.each(dataList.products, function(index, ele){
-        var one_product = _.extend({
-            "VendorID": 'mc5388',
-            "VendorName":  'Stellar Data Recovery Inc',
-            "SName":""
-        }, ele)
-        window["SellerData"].push(one_product);
+        if (_.isPlainObject(ele) && _.keys(ele).length > 0) {
+            var one_product = _.extend({
+                "VendorID": 'mc5388',
+                "VendorName":  'Stellar Data Recovery Inc',
+                "SName":""
+            }, ele)
+            window["SellerData"].push(one_product);
+        }
     });
 })();

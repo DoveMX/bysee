@@ -5,9 +5,8 @@
             //romanysoft markdownd
             {
                 "TName":"原子正版 Markdown 文档编辑工具 Win版本",
-                "Pid":"romanysoft-markdownd-win",
-                "Name":"MarkdownD for Windows",
                 "OS":"Windows",
+                "Category": "代码编辑",
                 "SiteUrl":"http://aws.romanysoft.com/markdownd/",
                 "VendorPrice":35.99,
                 "sitePrice":35.99,
@@ -21,9 +20,8 @@
             },
             {
                 "TName":"原子正版 Markdown 文档编辑工具 Mac版本",
-                "Pid":"romanysoft-markdownd-mac",
-                "Name":"MarkdownD for Windows",
                 "OS":"Windows",
+                "Category": "代码编辑",
                 "SiteUrl":"http://aws.romanysoft.com/markdownd/",
                 "VendorPrice":35.99,
                 "sitePrice":35.99,
@@ -39,9 +37,8 @@
             //Romanysoft SpeedTest
             {
                 "TName":"原子正版 SpeedTest 网络速度测试工具 Mac版本",
-                "Pid":"romanysoft-speedtest-macc",
-                "Name":"SpeedTest 网络速度测试工具 Mac版本",
                 "OS": "Mac",
+                "Category": "代码编辑",
                 "SiteUrl":"http://seesrc.com/2018/01/09/speedtest-romanysoft-mac/",
                 "VendorPrice":5.99,
                 "sitePrice":5.99,
@@ -57,11 +54,13 @@
     };
 
     $.each(dataList.products, function(index, ele){
-        var one_product = _.extend({
-            "VendorID": '1',
-            "VendorName":  'Romanysoft(漫软)',
-            "SName":""
-        }, ele)
-        window["SellerData"].push(one_product);
+        if (_.isPlainObject(ele) && _.keys(ele).length > 0) {
+            var one_product = _.extend({
+                "VendorID": '1',
+                "VendorName":  'Romanysoft(漫软)',
+                "SName":""
+            }, ele)
+            window["SellerData"].push(one_product);
+        }
     });
 })();
