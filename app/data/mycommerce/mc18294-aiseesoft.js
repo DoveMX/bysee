@@ -122,6 +122,21 @@
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-565?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
                 "TaobaoUrl":""
             },
+            {
+                /// MobieSync
+                "SName":"Mobile Tools",
+                "TName":"原子正版 Aiseesoft iPhone手机数据同步专业版 Windows版本",
+                "OS":"Windows",
+                "Category": "修复恢复",
+                "SiteUrl":"https://www.aiseesoft.com/mobiesync/",
+                "VendorPrice":29.95,
+                "ID":"18294-573",
+                "Commission": 75,
+                "dlID":"dl-win-aiseesoft-mobiesync",
+                "DownloadUrl":"",
+                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-573?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
+                "TaobaoUrl":""
+            },
             {   /// HEIC Converter
                 "SName":"Mobile Tools",
                 "TName":"原子正版 Aiseesoft iPhone手机照片转换图片工具 Windows版本",
