@@ -5,7 +5,7 @@
             /// PC Utility
             {
                 "SName":"PC Utility",
-                "TName":"原子正版 Aiseesoft Mac Cleaner 苹果电脑清理助手 Mac版本",
+                "TName":"原子正版 Aiseesoft Mac Cleaner 苹果电脑清理 Mac版本",
                 "OS":"Mac",
                 "Category": "系统工具",
                 "SiteUrl":"https://www.aiseesoft.com/mac-cleaner/",
@@ -96,28 +96,28 @@
             {
                 /// iOS Data Backup & Restore
                 "SName":"Mobile Tools",
-                "TName":"原子正版 Aiseesoft iPhone手机数据备份还原助手 Windows版本",
+                "TName":"原子正版 Aiseesoft iPhone手机数据备份还原 Windows版本",
                 "OS":"Windows",
                 "Category": "修复恢复",
                 "SiteUrl":"https://www.aiseesoft.com/ios-data-backup-and-restore/",
                 "VendorPrice":39.95,
                 "ID":"18294-554",
                 "Commission": 75,
-                "dlID":"dl-win-fonelab-ios-system-recovery",
+                "dlID":"dl-win-fonelab-ios-data-backup-restore",
                 "DownloadUrl":"",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-554?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
                 "TaobaoUrl":""
             },
             {
                 "SName":"Mobile Tools",
-                "TName":"原子正版 Aiseesoft iPhone手机数据备份还原助手 Mac版本",
+                "TName":"原子正版 Aiseesoft iPhone手机数据备份还原 Mac版本",
                 "OS": "Mac",
                 "Category": "修复恢复",
                 "SiteUrl":"https://www.aiseesoft.com/ios-data-backup-and-restore/",
                 "VendorPrice":39.95,
                 "ID":"18294-565",
                 "Commission": 75,
-                "dlID":"dl-mac-fonelab-ios-system-recovery",
+                "dlID":"dl-mac-fonelab-ios-data-backup-restore",
                 "DownloadUrl":"",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-565?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
                 "TaobaoUrl":""
@@ -468,7 +468,7 @@
             /// PDF Tools
             {   /// PDF Converter Ultimate
                 "SName":"PDF Tools",
-                "TName":"原子正版 Aiseesoft PDF专业转换工具大全 Windows版本",
+                "TName":"原子正版 Aiseesoft PDF专业转换工具集合 Windows版本",
                 "OS":"Windows",
                 "Category": "PDF专业工具",
                 "SiteUrl":"https://www.aiseesoft.com/pdf-converter-ultimate.html",
@@ -482,7 +482,7 @@
             },
             {
                 "SName":"PDF Tools",
-                "TName":"原子正版 Aiseesoft PDF专业转换工具大全 Mac版本",
+                "TName":"原子正版 Aiseesoft PDF专业转换工具集合 Mac版本",
                 "OS": "Mac",
                 "Category": "PDF专业工具",
                 "SiteUrl":"https://www.aiseesoft.com/pdf-converter-ultimate.html",
