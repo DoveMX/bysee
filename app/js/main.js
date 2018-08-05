@@ -63,16 +63,12 @@ $(document).ready(function() {
                     "class": "btn-buy"
                 },
                 title: "购买",
-                width: 80,
-                locked: true,
-                lockable: false,
+                width: 80
             },
             {
                 field: "TName",
                 title: "淘宝商品名称",
                 // template: "<strong>#: TName # </strong>",
-                locked: true,
-                lockable: false,
                 format: "{0}",
                 sortable: true,
                 width: 460,
@@ -82,13 +78,12 @@ $(document).ready(function() {
             }, {
                 field: "VendorPrice",
                 title: "官网价",
-                locked: false,
                 format: "${0}",
                 width: 80
             },  {
                 field: "Commission",
                 title: "佣金",
-                lockable: false,
+
                 format: "{0}%",
                 width: 72
             },{
@@ -110,7 +105,6 @@ $(document).ready(function() {
                 }],
                 title: "利润",
                 width: 80,
-                locked: true
             },{
                 command:[{ 
                     name: "TaobaoUrl",
@@ -131,9 +125,7 @@ $(document).ready(function() {
                     } 
                 }],
                 title: "淘宝链接", 
-                width: 80,
-                locked: true,
-                lockable: false
+                width: 80
             },{
                 command:[{ 
                     text: "试用",
@@ -154,21 +146,15 @@ $(document).ready(function() {
                     } 
                 }],
                 title: "试用下载",
-                width: 80,
-                locked: true,
-                lockable: false
+                width: 80
             },{
                 field: "OS",
                 title: "安装要求",
-                width: 84,
-                locked: true,
-                lockable: false
+                width: 84
             },{
                 field: "Category",
                 title: "类别",
-                width: 84,
-                locked: true,
-                lockable: false
+                width: 84
             },  {
                 command:[{ 
                     text: "官网",
