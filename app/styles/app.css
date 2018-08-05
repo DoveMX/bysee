@@ -1,7 +1,12 @@
 #grid {
   font-size: 9px;
+  min-width: 1920px;
 }
  
+#grid .k-grid-content {
+  min-width: 1920px;
+}
+
 .btn-buy > * {
   color: #d66000;
 }
