@@ -336,7 +336,7 @@
                 "dlID":"dl-aiseesoft-blu-ray-creator-win",
                 "DownloadUrl":"",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-486?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
-                "TaobaoUrl":""
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=575218091032"
             },
 
             /// Video Converter
@@ -464,7 +464,7 @@
                 "dlID":"dl-aiseesoft-4k-converter-win",
                 "DownloadUrl":"https://techidaily.com/downloads/aiseesoft/aiseesoft-4k-converter-617007.exe",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-542?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
-                "TaobaoUrl":""
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=575214991796"
             },
             {
                 "SName":"Video Toolkit",
@@ -478,7 +478,7 @@
                 "dlID":"dl-aiseesoft-4k-converter-mac",
                 "DownloadUrl":"https://techidaily.com/downloads/aiseesoft/aiseesoft-4k-converter-for-mac-617007.dmg",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-550?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
-                "TaobaoUrl":""
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=575216019766"
             },
             /// PDF Tools
             {   /// PDF Converter Ultimate
