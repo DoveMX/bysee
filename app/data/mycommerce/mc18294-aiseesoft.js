@@ -252,7 +252,7 @@
                 "dlID":"dl-aiseesoft-blu-ray-player-win",
                 "DownloadUrl":"https://techidaily.com/downloads/aiseesoft/aiseesoft-blu-ray-player-617007.exe",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-440?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
-                "TaobaoUrl":""
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=574906148753"
             },
             {
                 "SName":"Blu-ray/DVD",
