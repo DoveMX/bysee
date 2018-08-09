@@ -663,34 +663,6 @@
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-220?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
                 "TaobaoUrl":""
             },
-            {   /// PDF Merger
-                "SName":"PDF Tools",
-                "TName":"原子正版 Aiseesoft PDF Merger PDF合并工具 Windows版本",
-                "OS":"Windows",
-                "Category": "PDF专业工具",
-                "SiteUrl":"https://www.aiseesoft.com/pdf-merger/",
-                "VendorPrice":25,
-                "ID":"18294-268",
-                "Commission": 75,
-                "dlID":"dl-aiseesoft-pdf-merger-win",
-                "DownloadUrl":"",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-268?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
-                "TaobaoUrl":""
-            },
-            {   /// PDF Splitter
-                "SName":"PDF Tools",
-                "TName":"原子正版 Aiseesoft PDF Splitter PDF分割工具 Windows版本",
-                "OS":"Windows",
-                "Category": "PDF专业工具",
-                "SiteUrl":"https://www.aiseesoft.com/pdf-splitter/",
-                "VendorPrice":25,
-                "ID":"18294-267",
-                "Commission": 75,
-                "dlID":"dl-aiseesoft-pdf-splitter-win",
-                "DownloadUrl":"",
-                "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-267?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
-                "TaobaoUrl":""
-            },
             {}
         ]
     };
