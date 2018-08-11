@@ -521,7 +521,7 @@
                 "dlID":"dl-aiseesoft-pdf-to-word-converter-win",
                 "DownloadUrl":"",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-186?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
-                "TaobaoUrl":""
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=575008740066"
             },
             {
                 "SName":"PDF Tools",
@@ -535,7 +535,7 @@
                 "dlID":"dl-aiseesoft-pdf-to-word-converter-mac",
                 "DownloadUrl":"",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-442?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
-                "TaobaoUrl":""
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=575383687552"
             },
             {   /// PDF to Image Converter
                 "SName":"PDF Tools",

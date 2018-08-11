@@ -124,7 +124,10 @@ $(document).ready(function() {
                         var tr = $(e.target).closest("tr");
                         var data = this.dataItem(tr);
                         if (_.trim(data.TaobaoUrl || "").length > 0) {
-                            window.open(data.TaobaoUrl);    
+                            var url = data.TaobaoUrl;
+                            window.copyToClipboard(url);
+                            window.alert("商品链接已经拷贝成功! 默认打开: " + url);
+                            window.open(url);
                         } else {
                             window.alert("没有对应的淘宝商品进行绑定！！");
                         }
@@ -177,12 +180,11 @@ $(document).ready(function() {
                         e.preventDefault();
                         var tr = $(e.target).closest("tr");
                         var data = this.dataItem(tr);
-                        //window.open(data.DownloadUrl);
+   
                         var url = data.SiteUrl;
                         window.copyToClipboard(url);
-
                         //
-                        window.alert("官方网站地址已经拷贝成功! 默认打开 " + url);
+                        window.alert("官方网站地址已经拷贝成功! 默认打开: " + url);
                         window.open(url);
 
                     } 
