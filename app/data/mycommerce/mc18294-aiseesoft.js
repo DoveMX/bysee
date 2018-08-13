@@ -29,7 +29,7 @@
                 "dlID":"dl-win-aiseesoft-data-recovery",
                 "DownloadUrl":"",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-568?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
-                "TaobaoUrl":""
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=575578611814"
             },
 
 
@@ -294,7 +294,7 @@
                 "dlID":"dl-aiseesoft-dvd-creator-win",
                 "DownloadUrl":"",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-215?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
-                "TaobaoUrl":""
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=575578391244"
             },
             {
                 "SName":"Blu-ray/DVD",
@@ -308,7 +308,7 @@
                 "dlID":"dl-aiseesoft-dvd-creator-mac",
                 "DownloadUrl":"",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-437?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
-                "TaobaoUrl":""
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=575361033681"
             },
             {   /// PPT to DVD Converter
                 "SName":"Blu-ray/DVD",
