@@ -436,7 +436,7 @@
                 "dlID":"dl-aiseesoft-screen-recorder-win",
                 "DownloadUrl":"https://techidaily.com/downloads/aiseesoft/aiseesoft-screen-recorder-617007.exe",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-549?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
-                "TaobaoUrl":""
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=575705363385"
             },
             {
                 "SName":"Video Toolkit",
@@ -450,7 +450,7 @@
                 "dlID":"dl-aiseesoft-screen-recorder-mac",
                 "DownloadUrl":"",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-572?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
-                "TaobaoUrl":""
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=575487429158"
             },
             {   /// 4K Converter
                 "SName":"Video Toolkit",
