@@ -322,7 +322,7 @@
                 "dlID":"dl-aiseesoft-powerpoint-to-video-dvd-converter-win",
                 "DownloadUrl":"",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-555?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
-                "TaobaoUrl":""
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=575550161221"
             },
             {   /// Blu-ray Creator
                 "SName":"Blu-ray/DVD",
