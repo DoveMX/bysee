@@ -280,7 +280,7 @@
                 "dlID":"dl-aiseesoft-blu-ray-dvd-burner-win",
                 "DownloadUrl":"https://techidaily.com/downloads/aiseesoft/burnova-617007.exe",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-559?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
-                "TaobaoUrl":""
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=576069790861"
             },
             {   /// DVD Creator
                 "SName":"Blu-ray/DVD",
