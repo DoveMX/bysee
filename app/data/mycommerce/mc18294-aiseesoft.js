@@ -507,7 +507,7 @@
                 "dlID":"dl-aiseesoft-pdf-converter-ultimate-mac",
                 "DownloadUrl":"",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-435?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
-                "TaobaoUrl":""
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=576183889333"
             },
             {   /// PDF to Word Converter
                 "SName":"PDF Tools",
