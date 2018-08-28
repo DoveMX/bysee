@@ -605,7 +605,7 @@
                 "dlID":"dl-aiseesoft-pdf-to-epub-converter-win",
                 "DownloadUrl":"",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-221?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
-                "TaobaoUrl":""
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=576498963983"
             },
             {
                 "SName":"PDF Tools",
@@ -619,7 +619,7 @@
                 "dlID":"dl-aiseesoft-pdf-to-epub-converter-mac",
                 "DownloadUrl":"",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/18294-443?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
-                "TaobaoUrl":""
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=576274301553"
             },
             {   /// PDF to Text Converter
                 "SName":"PDF Tools",
