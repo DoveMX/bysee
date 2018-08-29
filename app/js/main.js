@@ -163,13 +163,13 @@ $(document).ready(function() {
             },{
                 field: "OS",
                 title: "安装要求",
-                width: 84,
+                width: 100,
                 locked: true,
                 lockable: false
             },{
                 field: "Category",
                 title: "类别",
-                width: 84,
+                width: 120,
                 locked: true,
                 lockable: false
             },  {
