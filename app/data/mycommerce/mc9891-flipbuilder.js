@@ -42,7 +42,7 @@
                 "dlID":"dl-flip-pdf-pro-win",
                 "DownloadUrl":"http://www.flipbuilder.com/download/flip-pdf-pro.zip",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/new/9891-138?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209&affiliate=624209",
-                "TaobaoUrl":""
+                "TaobaoUrl":"https://item.taobao.com/item.htm?id=576624243082"
             },
             {   
                 "SName":"PDF Tools",

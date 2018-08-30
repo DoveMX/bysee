@@ -152,8 +152,13 @@ $(document).ready(function() {
                         var url = "https://seesrc.com/" + data.dlID;
                         window.copyToClipboard(url);
 
+                        var url_list = [url]
+                        if (data.DownloadUrl) {
+                            url_list.push(data.DownloadUrl)
+                        }
+
                         //
-                        window.alert("试用下载地址已经拷贝成功! " + url);
+                        window.alert("试用下载地址已经拷贝成功! \n" + url_list.join('\n\n'));
                     } 
                 }],
                 title: "试用下载",
