@@ -101,10 +101,41 @@ $(document).ready(function() {
                         var data = this.dataItem(tr);
                         var exchange= (6.92).toFixed(3); // 当前汇率取整
 
-                        var taobao_price = Math.floor((data.VendorPrice * exchange)/10) * 10 - 1;
-                        var Profit = data.VendorPrice * (data.Commission - 7) * exchange / 100.0;
-                        var msg = '淘宝最低售价: ' + kendo.toString(taobao_price, 'n0') + '元 ' +
-                                  '利润：' + kendo.toString(Profit, 'n0') + '元 '
+                        /// 计算实际订单价格与官方促销价格的利润分配 VendorPrice 与 PromotPrice 
+
+                        ///[0]
+                        var final_taobao_price = 0; /// 最终淘宝最低售价
+                        var final_profit = 0;       /// 最终利润
+                        var is_use_promo_price = false;   /// 是否使用官方促销价
+
+
+                        ///[1]
+                        var taobao_price_for_seller = Math.floor((data.VendorPrice * exchange)/10) * 10 - 1; /// 实际订货价格
+                        var Profit_for_seller = data.VendorPrice * (data.Commission - 7) * exchange / 100.0; /// 按照实际订货价格的利润
+
+                        ///[2]
+                        var taobao_price_by_offical_promotion = Math.floor((data.PromotPrice * exchange)/10) * 10 - 1; /// 官方促销订货价格
+
+                        ///[3]
+                        /// 计算求：淘宝上使用哪个价格作为销售价格
+                        var arbitrage = taobao_price_for_seller - taobao_price_by_offical_promotion;  /// 差价部分 （实际订货价格 - 官方促销订货价格）
+                        var min_profit_allowed = 50;  /// 最少允许的利润空间 RMB
+                        is_use_promo_price = ((Profit_for_seller - arbitrage) >= min_profit_allowed) && (taobao_price_for_seller != taobao_price_by_offical_promotion);
+
+                        if (!is_use_promo_price) {
+                            final_taobao_price = taobao_price_for_seller;
+                            final_profit = Profit_for_seller;
+                        } else {
+                            final_taobao_price = taobao_price_by_offical_promotion;
+                            final_profit = (Profit_for_seller - arbitrage);
+                        }
+
+                        var msg = '淘宝最低售价: ' + kendo.toString(final_taobao_price, 'n0') + '元 ' +
+                                  '利润：' + kendo.toString(final_profit, 'n0') + '元 '
+                        if (is_use_promo_price) {
+                            msg = '[官方正在促销]($' + data.PromotPrice + ') ' + msg;
+                        }
+
                         window.alert(msg);
                     }
                 }],
@@ -149,7 +180,12 @@ $(document).ready(function() {
                         var tr = $(e.target).closest("tr");
                         var data = this.dataItem(tr);
                         //window.open(data.DownloadUrl);
+
                         var url = "https://seesrc.com/" + data.dlID;
+                        if (data.dlID === "") {
+                            url = data.DownloadUrl;
+                        }
+
                         window.copyToClipboard(url);
 
                         var url_list = [url]

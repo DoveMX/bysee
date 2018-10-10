@@ -8,6 +8,7 @@
                 "Category": "安全加密",
                 "SiteUrl":"http://www.newsoftwares.net/folderlock",
                 "VendorPrice":39.95,
+                "PromotPrice":39.95,
                 "ID":"12653-1",
                 "Commission": 50,
                 "dlID":"dl-green-hard-drive-data-recovery-pro-win",
