@@ -99,7 +99,7 @@ $(document).ready(function() {
                         e.preventDefault();
                         var tr = $(e.target).closest("tr");
                         var data = this.dataItem(tr);
-                        var exchange= 6.9 + 0.12; // 当前汇率取整
+                        var exchange= (6.92).toFixed(3); // 当前汇率取整
 
                         var taobao_price = Math.floor((data.VendorPrice * exchange)/10) * 10 - 1;
                         var Profit = data.VendorPrice * (data.Commission - 7) * exchange / 100.0;
