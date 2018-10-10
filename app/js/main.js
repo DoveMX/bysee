@@ -173,7 +173,7 @@ $(document).ready(function() {
                     text: "试用",
                     iconClass: "k-icon k-i-unlink-vertical",
                     visible: function(dataItem) {
-                        return _.trim(dataItem.dlID || "").length > 0
+                        return (_.trim(dataItem.dlID || "").length > 0) || (_.trim(dataItem.DownloadUrl || "").length > 0);
                     },
                     click: function(e){
                         e.preventDefault();
@@ -182,14 +182,14 @@ $(document).ready(function() {
                         //window.open(data.DownloadUrl);
 
                         var url = "https://seesrc.com/" + data.dlID;
-                        if (data.dlID === "") {
+                        if (_.trim(data.dlID || "").length === 0) {
                             url = data.DownloadUrl;
                         }
 
                         window.copyToClipboard(url);
 
                         var url_list = [url]
-                        if (data.DownloadUrl) {
+                        if ((data.DownloadUrl !== url) && (_.trim(DownloadUrl.dlID || "").length > 0)) {
                             url_list.push(data.DownloadUrl)
                         }
 

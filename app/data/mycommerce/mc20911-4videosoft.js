@@ -15,7 +15,7 @@
                 "PromotPrice":27.3,
                 "ID":"20911-429",
                 "Commission": 75,
-                "dlID":"dl-4videosoft-screen-capture-win",
+                "dlID":"",
                 "DownloadUrl":"http://www.4videosoft.com/download/screen-capture.exe",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/20911-429?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209",
                 "TaobaoUrl":""
@@ -30,7 +30,7 @@
                 "PromotPrice":27.3,
                 "ID":"20911-435",
                 "Commission": 75,
-                "dlID":"dl-4videosoft-screen-capture-mac",
+                "dlID":"",
                 "DownloadUrl":"http://www.4videosoft.com/download/mac/screen-capture-for-mac.dmg",
                 "BuyUrl":"https://shopper.mycommerce.com/checkout/cart/add/20911-435?quantity=1&locale=zh_CN&currency=USD&affiliate_id=624209",
                 "TaobaoUrl":""
