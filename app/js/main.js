@@ -119,7 +119,7 @@ $(document).ready(function() {
                         ///[3]
                         /// 计算求：淘宝上使用哪个价格作为销售价格
                         var arbitrage = taobao_price_for_seller - taobao_price_by_offical_promotion;  /// 差价部分 （实际订货价格 - 官方促销订货价格）
-                        var min_profit_allowed = 50;  /// 最少允许的利润空间 RMB
+                        var min_profit_allowed = 75;  /// 最少允许的利润空间 RMB
                         is_use_promo_price = ((Profit_for_seller - arbitrage) >= min_profit_allowed) && (taobao_price_for_seller != taobao_price_by_offical_promotion);
 
                         if (!is_use_promo_price) {
