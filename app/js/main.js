@@ -189,7 +189,7 @@ $(document).ready(function() {
                         window.copyToClipboard(url);
 
                         var url_list = [url]
-                        if ((data.DownloadUrl !== url) && (_.trim(DownloadUrl.dlID || "").length > 0)) {
+                        if ((data.DownloadUrl !== url) && (_.trim(data.DownloadUrl || "").length > 0)) {
                             url_list.push(data.DownloadUrl)
                         }
 
