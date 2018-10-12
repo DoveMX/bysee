@@ -99,7 +99,7 @@
         if (_.isPlainObject(ele) && _.keys(ele).length > 0) {
             var one_product = _.extend({
                 "VendorID": 'mc9891',
-                "VendorName":  'flipbuilder',
+                "VendorName":  '03 Flipbuilder',
                 "SName":""
             }, ele)
             window["SellerData"].push(one_product);

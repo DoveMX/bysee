@@ -188,13 +188,13 @@ $(document).ready(function() {
 
                         window.copyToClipboard(url);
 
-                        var url_list = [url]
+                        var url_list = []
                         if ((data.DownloadUrl !== url) && (_.trim(data.DownloadUrl || "").length > 0)) {
                             url_list.push(data.DownloadUrl)
                         }
 
                         //
-                        window.alert("试用下载地址已经拷贝成功! \n" + url_list.join('\n\n'));
+                        window.alert("试用下载地址已经拷贝成功! \n" + url + "\n\n2.其他可用下载链接：\n" + url_list.join('\n'));
                     } 
                 }],
                 title: "试用下载",
